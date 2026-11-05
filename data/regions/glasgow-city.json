@@ -1,0 +1,140 @@
+{
+  "slug": "glasgow-city",
+  "name": "Glasgow City",
+  "adjective": "Glasgow",
+  "people": "Glasgow Scots",
+  "eyebrow": "City · Clyde Valley",
+  "title": "Glasgow —",
+  "title_em": "friendly, funny and full of music.",
+  "tagline": "Victorian grandeur, Mackintosh, great museums and a sense of humour all its own.",
+  "stats": [
+    [
+      "~620,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Glasgow is Scotland's biggest city, built on shipbuilding and trade on the River Clyde. It has some of the UK's finest Victorian architecture and a thriving music, art and sport scene.",
+    "The city has a strong Irish, Italian, Jewish and South Asian heritage as well as its Scottish one, and its Glasgow patter is known worldwide."
+  ],
+  "map": {
+    "viewBox": "238 502 19 17",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lon": -4.2518,
+        "note": "The city centre and Merchant City.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Partick",
+        "lat": 55.87,
+        "lon": -4.309,
+        "note": "A West End neighbourhood near the university.",
+        "label": "left"
+      },
+      {
+        "name": "Govan",
+        "lat": 55.861,
+        "lon": -4.317,
+        "note": "Shipbuilding heritage on the south bank.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Kelvingrove Art Gallery and Museum",
+      "text": "A red sandstone museum with a Spitfire hanging in the main hall."
+    },
+    {
+      "title": "Charles Rennie Mackintosh",
+      "text": "The architect and designer whose Glasgow School of Art and Willow Tearooms are landmarks of Art Nouveau."
+    },
+    {
+      "title": "Music",
+      "text": "From Celtic Connections each January to the live venues of every genre."
+    }
+  ],
+  "places": [
+    {
+      "name": "Kelvingrove Art Gallery",
+      "where": "Glasgow",
+      "text": "One of Scotland's most visited museums, and free."
+    },
+    {
+      "name": "Glasgow Cathedral",
+      "where": "Glasgow",
+      "text": "A medieval cathedral that survived the Reformation almost intact."
+    },
+    {
+      "name": "Riverside Museum",
+      "where": "Glasgow",
+      "text": "Transport museum next to the Tall Ship on the Clyde."
+    }
+  ],
+  "food": [
+    "Glasgow curry",
+    "Lorne sausage",
+    "Tunnock's teacakes",
+    "Irn-Bru",
+    "Square sausage"
+  ],
+  "festivals": [
+    {
+      "name": "Celtic Connections",
+      "where": "Glasgow",
+      "month": 1,
+      "when": "January",
+      "text": "A big winter festival of folk, roots and world music."
+    },
+    {
+      "name": "West End Festival",
+      "where": "Glasgow",
+      "month": 6,
+      "when": "June",
+      "text": "Parades and street events across the West End."
+    }
+  ],
+  "sport": {
+    "intro": "Glasgow's Old Firm rivalry between Celtic and Rangers is one of the most famous in world football.",
+    "clubs": [
+      {
+        "name": "Celtic",
+        "sport": "Football",
+        "ground": "Celtic Park"
+      },
+      {
+        "name": "Rangers",
+        "sport": "Football",
+        "ground": "Ibrox Stadium"
+      },
+      {
+        "name": "Partick Thistle",
+        "sport": "Football",
+        "ground": "Firhill Stadium"
+      },
+      {
+        "name": "Queen's Park",
+        "sport": "Football",
+        "ground": "Hampden Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Glaswegians are found in every part of the Scottish diaspora, and Glasgow's own mix of communities has produced a distinctive culture."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

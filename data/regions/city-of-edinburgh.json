@@ -1,0 +1,141 @@
+{
+  "slug": "city-of-edinburgh",
+  "name": "City of Edinburgh",
+  "adjective": "City of Edinburgh",
+  "people": "City of Edinburgh Scots",
+  "eyebrow": "Capital city · Lothian",
+  "title": "Edinburgh —",
+  "title_em": "castle, festivals and the capital.",
+  "tagline": "A castle on a volcanic rock, the Royal Mile and the world's biggest arts festival.",
+  "stats": [
+    [
+      "~510,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Edinburgh has been Scotland's capital for centuries and its Old and New Towns are a UNESCO World Heritage Site. The Castle, the Royal Mile and Holyrood Palace sit along a ridge that runs down from an extinct volcano.",
+    "Every August the city hosts the Edinburgh Festival Fringe and the Military Tattoo, and Hogmanay on 31 December draws visitors from around the world. The Scottish Parliament sits at Holyrood."
+  ],
+  "map": {
+    "viewBox": "288 495 22 21",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lon": -3.1883,
+        "note": "The capital, with the Castle and the Old Town.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Leith",
+        "lat": 55.976,
+        "lon": -3.17,
+        "note": "The historic port, now known for restaurants and the Royal Yacht Britannia."
+      },
+      {
+        "name": "Portobello",
+        "lat": 55.956,
+        "lon": -3.115,
+        "note": "A seaside suburb with a long sandy beach."
+      },
+      {
+        "name": "Cramond",
+        "lat": 55.979,
+        "lon": -3.298,
+        "note": "A village on the Firth of Forth with a tidal island.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Edinburgh Castle and the Royal Mile",
+      "text": "A fortress on Castle Rock above a street of closes, shops and kirks."
+    },
+    {
+      "title": "The Festivals",
+      "text": "The Fringe, the International Festival and the Tattoo turn August into the busiest month of the year."
+    },
+    {
+      "title": "Arthur's Seat",
+      "text": "An extinct volcano in Holyrood Park with views over the whole city."
+    }
+  ],
+  "places": [
+    {
+      "name": "Edinburgh Castle",
+      "where": "Edinburgh",
+      "text": "Home of the Scottish Crown Jewels and the Stone of Destiny."
+    },
+    {
+      "name": "Palace of Holyroodhouse",
+      "where": "Edinburgh",
+      "text": "The King's official residence in Scotland."
+    },
+    {
+      "name": "National Museum of Scotland",
+      "where": "Edinburgh",
+      "text": "Free museum covering Scotland's story and the wider world."
+    }
+  ],
+  "food": [
+    "Haggis, neeps and tatties",
+    "Scotch broth",
+    "Cullen skink",
+    "Shortbread",
+    "Edinburgh rock"
+  ],
+  "festivals": [
+    {
+      "name": "Edinburgh Festival Fringe",
+      "where": "Edinburgh",
+      "month": 8,
+      "when": "August",
+      "text": "The world's largest arts festival, with thousands of shows."
+    },
+    {
+      "name": "Hogmanay",
+      "where": "Edinburgh",
+      "month": 12,
+      "when": "29 December to 1 January",
+      "text": "Scotland's New Year with street party, torchlight procession and fireworks.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Edinburgh has two big football clubs, Hearts and Hibs, and Scotland's national rugby team plays at Murrayfield.",
+    "clubs": [
+      {
+        "name": "Heart of Midlothian",
+        "sport": "Football",
+        "ground": "Tynecastle Park"
+      },
+      {
+        "name": "Hibernian",
+        "sport": "Football",
+        "ground": "Easter Road"
+      },
+      {
+        "name": "Edinburgh Rugby",
+        "sport": "Rugby union",
+        "ground": "Murrayfield Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Edinburgh people have gone abroad for generations and Burns suppers, St Andrew's Day dinners and Hogmanay parties are held by Scots societies worldwide."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

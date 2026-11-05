@@ -1,0 +1,119 @@
+{
+  "slug": "west-dunbartonshire",
+  "name": "West Dunbartonshire",
+  "adjective": "West Dunbartonshire",
+  "people": "West Dunbartonshire Scots",
+  "eyebrow": "West Scotland · Clyde",
+  "title": "West Dunbartonshire —",
+  "title_em": "Dumbarton Rock and Clydebank.",
+  "tagline": "Dumbarton Rock, Clydebank's shipyards and the bonnie banks of Loch Lomond.",
+  "stats": [
+    [
+      "~88,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "West Dunbartonshire has Dumbarton Rock, a volcanic plug that was capital of the ancient kingdom of Strathclyde, and Clydebank, where great liners such as the Queen Mary were built.",
+    "Loch Lomond lies at its northern edge, and the Clyde here has a long maritime story."
+  ],
+  "map": {
+    "viewBox": "223 487 18 22",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Dumbarton",
+        "lat": 55.943,
+        "lon": -4.569,
+        "note": "The council seat beside the Rock.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Clydebank",
+        "lat": 55.9,
+        "lon": -4.403,
+        "note": "A former shipbuilding town.",
+        "label": "left"
+      },
+      {
+        "name": "Alexandria",
+        "lat": 55.984,
+        "lon": -4.576,
+        "note": "A town in the Vale of Leven."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Dumbarton Castle",
+      "text": "A fortress on a volcanic rock beside the Clyde."
+    },
+    {
+      "title": "Clydebank shipyards",
+      "text": "John Brown's yard built the Queen Mary and the Queen Elizabeth 2."
+    },
+    {
+      "title": "Loch Lomond edge",
+      "text": "The southern shore of Scotland's largest lake."
+    }
+  ],
+  "places": [
+    {
+      "name": "Dumbarton Castle",
+      "where": "Dumbarton",
+      "text": "A castle on a rock where Mary Queen of Scots once sheltered."
+    },
+    {
+      "name": "Titan Crane",
+      "where": "Clydebank",
+      "text": "A giant cantilever crane."
+    },
+    {
+      "name": "Loch Lomond Shores",
+      "where": "Balloch",
+      "text": "A gateway to Scotland's largest loch."
+    }
+  ],
+  "food": [
+    "Fish suppers",
+    "Scotch pies"
+  ],
+  "festivals": [
+    {
+      "name": "Balloch Highland Games",
+      "where": "Balloch",
+      "month": 7,
+      "when": "July",
+      "text": "Highland games by the loch."
+    }
+  ],
+  "sport": {
+    "intro": "Dumbarton is one of Scotland's oldest football clubs.",
+    "clubs": [
+      {
+        "name": "Dumbarton FC",
+        "sport": "Football",
+        "ground": "Dumbarton Football Stadium"
+      },
+      {
+        "name": "Clydebank FC",
+        "sport": "Football",
+        "ground": "Holm Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Clydebank's shipyard families took their trade to yards around the world."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

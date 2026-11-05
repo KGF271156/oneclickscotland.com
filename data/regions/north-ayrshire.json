@@ -1,0 +1,123 @@
+{
+  "slug": "north-ayrshire",
+  "name": "North Ayrshire",
+  "adjective": "North Ayrshire",
+  "people": "North Ayrshire Scots",
+  "eyebrow": "South-west Scotland · Ayrshire and Arran",
+  "title": "North Ayrshire —",
+  "title_em": "Arran, Largs and the Clyde coast.",
+  "tagline": "The Isle of Arran, Largs and the shores of the Firth of Clyde.",
+  "stats": [
+    [
+      "~134,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "North Ayrshire includes the Isle of Arran, known as Scotland in miniature, and the Cumbrae islands, with Largs, Saltcoats and Irvine on the mainland.",
+    "The Battle of Largs in 1263 ended Norse rule in the Hebrides, and Arran's Goat Fell, castle and distillery draw visitors."
+  ],
+  "map": {
+    "viewBox": "182 504 54 52",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Irvine",
+        "lat": 55.61,
+        "lon": -4.67,
+        "note": "A new town with a harbour museum.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Largs",
+        "lat": 55.795,
+        "lon": -4.87,
+        "note": "A popular seaside resort."
+      },
+      {
+        "name": "Brodick",
+        "lat": 55.578,
+        "lon": -5.15,
+        "note": "Arran's main village and castle.",
+        "label": "left"
+      },
+      {
+        "name": "Saltcoats",
+        "lat": 55.633,
+        "lon": -4.79,
+        "note": "A resort and former salt-making town.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Isle of Arran",
+      "text": "Mountains, glens, a castle, a distillery and the Arran cheese."
+    },
+    {
+      "title": "Largs",
+      "text": "A seaside town and the site of the 1263 battle."
+    },
+    {
+      "title": "Irvine",
+      "text": "The Scottish Maritime Museum and the Burns Club."
+    }
+  ],
+  "places": [
+    {
+      "name": "Brodick Castle",
+      "where": "Arran",
+      "text": "A castle of the Dukes of Hamilton with gardens."
+    },
+    {
+      "name": "Goat Fell",
+      "where": "Arran",
+      "text": "The island's highest peak."
+    },
+    {
+      "name": "Isle of Cumbrae",
+      "where": "Millport",
+      "text": "A small island reached by ferry from Largs."
+    }
+  ],
+  "food": [
+    "Arran cheese",
+    "Arran whisky",
+    "Scotch pies",
+    "Ice cream"
+  ],
+  "festivals": [
+    {
+      "name": "Largs Viking Festival",
+      "where": "Largs",
+      "month": 9,
+      "when": "September",
+      "text": "Re-enactments of the 1263 battle."
+    }
+  ],
+  "sport": {
+    "intro": "Sailing, walking and golf are the main outdoor pursuits.",
+    "clubs": [
+      {
+        "name": "Irvine Meadow",
+        "sport": "Football",
+        "ground": "Meadow Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Ayrshire and Arran families took their dialect and traditions around the world."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

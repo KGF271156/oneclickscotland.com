@@ -1,0 +1,122 @@
+{
+  "slug": "east-ayrshire",
+  "name": "East Ayrshire",
+  "adjective": "East Ayrshire",
+  "people": "East Ayrshire Scots",
+  "eyebrow": "South-west Scotland · Ayrshire",
+  "title": "East Ayrshire —",
+  "title_em": "Burns, castles and hills.",
+  "tagline": "Kilmarnock, Mauchline and the hills where Burns farmed.",
+  "stats": [
+    [
+      "~121,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "East Ayrshire is inland Ayrshire, with Kilmarnock as its main town and Mauchline, where Burns lived and married Jean Armour.",
+    "The Kilmarnock Edition of Burns' poems was published here in 1786, and Dean Castle is a medieval stronghold in a country park."
+  ],
+  "map": {
+    "viewBox": "222 516 44 70",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Kilmarnock",
+        "lat": 55.612,
+        "lon": -4.495,
+        "note": "The main town and rail hub.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Cumnock",
+        "lat": 55.454,
+        "lon": -4.253,
+        "note": "A former mining town."
+      },
+      {
+        "name": "Mauchline",
+        "lat": 55.515,
+        "lon": -4.38,
+        "note": "A village with a Burns house museum.",
+        "label": "left"
+      },
+      {
+        "name": "Dalmellington",
+        "lat": 55.322,
+        "lon": -4.4,
+        "note": "Near Loch Doon."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Kilmarnock Edition",
+      "text": "The 1786 first printing of Burns's poems."
+    },
+    {
+      "title": "Dean Castle",
+      "text": "A 14th-century castle and country park."
+    },
+    {
+      "title": "Mauchline",
+      "text": "The village where Burns lived and farmed."
+    }
+  ],
+  "places": [
+    {
+      "name": "Dean Castle",
+      "where": "Kilmarnock",
+      "text": "Medieval castle and woodland park."
+    },
+    {
+      "name": "Burns House Museum",
+      "where": "Mauchline",
+      "text": "The house where Burns lived."
+    },
+    {
+      "name": "Loch Doon Castle",
+      "where": "Dalmellington",
+      "text": "A ruined castle moved stone by stone."
+    }
+  ],
+  "food": [
+    "Ayrshire bacon",
+    "Black pudding",
+    "Scotch pies"
+  ],
+  "festivals": [
+    {
+      "name": "Burns Festival",
+      "where": "East Ayrshire",
+      "month": 1,
+      "when": "January",
+      "text": "Burns suppers and readings.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Kilmarnock FC, the oldest professional club in Scotland, won the title in 1965.",
+    "clubs": [
+      {
+        "name": "Kilmarnock FC",
+        "sport": "Football",
+        "ground": "BBSP Stadium, Rugby Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Burns lived and worked in these parishes, and his world is celebrated on every continent."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

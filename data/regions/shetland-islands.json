@@ -1,0 +1,124 @@
+{
+  "slug": "shetland-islands",
+  "name": "Shetland Islands",
+  "adjective": "Shetland",
+  "people": "Shetland Scots",
+  "eyebrow": "Northern Isles · Capital: Lerwick",
+  "title": "Shetland —",
+  "title_em": "Vikings, fire and ponies.",
+  "tagline": "Up Helly Aa, Jarlshof and Scotland's most northerly outpost.",
+  "stats": [
+    [
+      "~23,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Shetland, about 100 islands north of Orkney, has a strong Norse heritage and lies closer to Norway than to Edinburgh. Its dialect and music reflect that.",
+    "Up Helly Aa in Lerwick each January is a spectacular fire festival, and Jarlshof preserves 4,000 years of settlement."
+  ],
+  "map": {
+    "viewBox": "353 4 90 149",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Lerwick",
+        "lat": 60.155,
+        "lon": -1.145,
+        "note": "The capital and port.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Scalloway",
+        "lat": 60.135,
+        "lon": -1.275,
+        "note": "The old capital, with a castle.",
+        "label": "left"
+      },
+      {
+        "name": "Sumburgh",
+        "lat": 59.877,
+        "lon": -1.296,
+        "note": "At the southern tip, with Jarlshof."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Up Helly Aa",
+      "text": "A fire festival in which a Viking galley is burned in Lerwick."
+    },
+    {
+      "title": "Jarlshof",
+      "text": "Settlement remains from the Bronze Age to the Viking age."
+    },
+    {
+      "title": "Shetland ponies and Fair Isle knitwear",
+      "text": "Two famous Shetland exports."
+    }
+  ],
+  "places": [
+    {
+      "name": "Jarlshof",
+      "where": "Sumburgh",
+      "text": "A Bronze Age to Viking settlement."
+    },
+    {
+      "name": "Mousa Broch",
+      "where": "Mousa",
+      "text": "The best-preserved Iron Age broch."
+    },
+    {
+      "name": "Shetland Museum and Archives",
+      "where": "Lerwick",
+      "text": "A museum on Lerwick's harbour."
+    }
+  ],
+  "food": [
+    "Reestit mutton",
+    "Shetland lamb",
+    "Mussels",
+    "Bannocks"
+  ],
+  "festivals": [
+    {
+      "name": "Up Helly Aa",
+      "where": "Lerwick",
+      "month": 1,
+      "when": "Last Tuesday of January",
+      "text": "Torchlit procession and burning of a Viking longship.",
+      "diaspora": true
+    },
+    {
+      "name": "Shetland Folk Festival",
+      "where": "Shetland",
+      "month": 4,
+      "when": "April",
+      "text": "A big folk music festival."
+    }
+  ],
+  "sport": {
+    "intro": "Rowing in yoals and football are popular, with a unique island games tradition.",
+    "clubs": [
+      {
+        "name": "Shetland football and rowing clubs",
+        "sport": "Football / Rowing",
+        "ground": "Local grounds"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Shetlanders emigrated to Canada, New Zealand and elsewhere, and the 'Shetland Associations' keep Up Helly Aa traditions overseas."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

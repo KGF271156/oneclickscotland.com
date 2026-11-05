@@ -1,0 +1,121 @@
+{
+  "slug": "renfrewshire",
+  "name": "Renfrewshire",
+  "adjective": "Renfrewshire",
+  "people": "Renfrewshire Scots",
+  "eyebrow": "West Scotland",
+  "title": "Renfrewshire —",
+  "title_em": "Paisley pattern and the home of Scottish thread.",
+  "tagline": "Paisley's Abbey, the famous Paisley pattern and Glasgow Airport.",
+  "stats": [
+    [
+      "~180,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Renfrewshire's main town is Paisley, which gave its name to the swirling Paisley pattern woven in its mills. Paisley Abbey is a medieval church with a rich history.",
+    "The area includes Glasgow Airport, Erskine, and the Gleniffer Braes above Paisley."
+  ],
+  "map": {
+    "viewBox": "216 502 26 20",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Paisley",
+        "lat": 55.8456,
+        "lon": -4.4239,
+        "note": "Scotland's largest town.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Renfrew",
+        "lat": 55.877,
+        "lon": -4.39,
+        "note": "A town on the Clyde and former ferry point."
+      },
+      {
+        "name": "Johnstone",
+        "lat": 55.833,
+        "lon": -4.51,
+        "note": "A mill town.",
+        "label": "left"
+      },
+      {
+        "name": "Erskine",
+        "lat": 55.903,
+        "lon": -4.45,
+        "note": "A town by the Erskine Bridge."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Paisley pattern",
+      "text": "The teardrop design that took the town's name."
+    },
+    {
+      "title": "Paisley Abbey",
+      "text": "A medieval abbey with a notable organ and choir."
+    },
+    {
+      "title": "Paisley Museum",
+      "text": "A museum celebrating the town's textile and thread history."
+    }
+  ],
+  "places": [
+    {
+      "name": "Paisley Abbey",
+      "where": "Paisley",
+      "text": "A 12th-century monastery church."
+    },
+    {
+      "name": "Paisley Museum",
+      "where": "Paisley",
+      "text": "Home of the Paisley shawl collection."
+    },
+    {
+      "name": "Coats Memorial Church",
+      "where": "Paisley",
+      "text": "A Baptist church known as the 'Cathedral of Baptists'."
+    }
+  ],
+  "food": [
+    "Scotch pies",
+    "Fish suppers",
+    "Tablet"
+  ],
+  "festivals": [
+    {
+      "name": "Paisley Halloween Festival",
+      "where": "Paisley",
+      "month": 10,
+      "when": "Late October",
+      "text": "A big Halloween parade and events."
+    }
+  ],
+  "sport": {
+    "intro": "St Mirren, the Buddies, won the Scottish Cup in 1987.",
+    "clubs": [
+      {
+        "name": "St Mirren",
+        "sport": "Football",
+        "ground": "SMiSA Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Paisley mill workers emigrated to Paterson, New Jersey and other mill towns."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

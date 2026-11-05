@@ -1,0 +1,132 @@
+{
+  "slug": "eilean-siar",
+  "name": "Eilean Siar (Na h-Eileanan Siar)",
+  "adjective": "Outer Hebrides",
+  "people": "Outer Hebrides Scots",
+  "eyebrow": "Western Isles · Capital: Stornoway",
+  "title": "The Outer Hebrides —",
+  "title_em": "Gaelic, beaches and standing stones.",
+  "tagline": "Callanish, Harris Tweed and the Gaelic heartland of Scotland.",
+  "stats": [
+    [
+      "~26,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Na h-Eileanan Siar, the Western Isles or Outer Hebrides, stretches 130 miles from the Butt of Lewis to Barra Head. It is the strongest remaining area of Scottish Gaelic, with over half the population speaking it.",
+    "The islands have white sandy beaches, the Callanish Standing Stones, and the weaving of Harris Tweed."
+  ],
+  "map": {
+    "viewBox": "-4 169 181 264",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Stornoway",
+        "lat": 58.209,
+        "lon": -6.387,
+        "note": "The main town on Lewis.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Tarbert",
+        "lat": 57.896,
+        "lon": -6.8,
+        "note": "The ferry port of Harris.",
+        "label": "left"
+      },
+      {
+        "name": "Callanish",
+        "lat": 58.197,
+        "lon": -6.745,
+        "note": "The standing stones.",
+        "label": "left"
+      },
+      {
+        "name": "Castlebay",
+        "lat": 56.954,
+        "lon": -7.49,
+        "note": "Barra's main village.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Callanish Standing Stones",
+      "text": "A 5,000-year-old stone circle on Lewis."
+    },
+    {
+      "title": "Harris Tweed",
+      "text": "A handwoven cloth protected by an Act of Parliament."
+    },
+    {
+      "title": "Gaelic",
+      "text": "The language is heard daily in shops, schools and churches."
+    }
+  ],
+  "places": [
+    {
+      "name": "Callanish Standing Stones",
+      "where": "Isle of Lewis",
+      "text": "A cross-shaped stone setting older than Stonehenge."
+    },
+    {
+      "name": "Luskentyre Beach",
+      "where": "Isle of Harris",
+      "text": "A huge white beach with turquoise water."
+    },
+    {
+      "name": "Barra Airport",
+      "where": "Barra",
+      "text": "The only airport with a beach runway used for scheduled flights."
+    }
+  ],
+  "food": [
+    "Stornoway black pudding (PGI)",
+    "Fresh seafood",
+    "Hebridean lamb",
+    "Oatcakes"
+  ],
+  "festivals": [
+    {
+      "name": "Hebridean Celtic Festival",
+      "where": "Stornoway",
+      "month": 7,
+      "when": "July",
+      "text": "A music festival in the grounds of Lews Castle."
+    },
+    {
+      "name": "Royal National Mòd",
+      "where": "Varies",
+      "month": 10,
+      "when": "October",
+      "text": "The Gaelic festival, held in different places each year.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Football, shinty and sailing are popular in the islands.",
+    "clubs": [
+      {
+        "name": "Shinty and football clubs",
+        "sport": "Shinty / Football",
+        "ground": "Local grounds"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Gaelic-speaking families from the Western Isles settled in Nova Scotia, Cape Breton and Australia, and Gaelic still survives in parts of Canada."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

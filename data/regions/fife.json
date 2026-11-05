@@ -1,0 +1,152 @@
+{
+  "slug": "fife",
+  "name": "Fife",
+  "adjective": "Fife",
+  "people": "Fife Scots",
+  "eyebrow": "East Scotland · The Kingdom of Fife",
+  "title": "Fife —",
+  "title_em": "the Kingdom, the Old Course and the East Neuk.",
+  "tagline": "Golf at St Andrews, fishing villages on the East Neuk and the ancient capital of Dunfermline.",
+  "stats": [
+    [
+      "~370,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Fife is a peninsula between the Firth of Forth and the Firth of Tay, known as the Kingdom of Fife. It has Scotland's oldest university at St Andrews, the home of golf, and a chain of picturesque fishing villages.",
+    "Dunfermline was Scotland's ancient capital and the birthplace of Andrew Carnegie, who gave away much of his fortune to build libraries around the world."
+  ],
+  "map": {
+    "viewBox": "270 447 72 52",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Glenrothes",
+        "lat": 56.196,
+        "lon": -3.176,
+        "note": "A new town in the centre of Fife.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "St Andrews",
+        "lat": 56.3398,
+        "lon": -2.7967,
+        "note": "University town and home of golf."
+      },
+      {
+        "name": "Dunfermline",
+        "lat": 56.0717,
+        "lon": -3.4393,
+        "note": "Ancient capital with the abbey.",
+        "label": "left"
+      },
+      {
+        "name": "Kirkcaldy",
+        "lat": 56.11,
+        "lon": -3.16,
+        "note": "The 'Lang Toun' and home of linoleum.",
+        "label": "left"
+      },
+      {
+        "name": "Anstruther",
+        "lat": 56.223,
+        "lon": -2.7,
+        "note": "Famous for its fish and chips."
+      },
+      {
+        "name": "Cupar",
+        "lat": 56.32,
+        "lon": -3.01,
+        "note": "The old county town."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "St Andrews",
+      "text": "The home of golf and Scotland's oldest university."
+    },
+    {
+      "title": "The East Neuk",
+      "text": "Pittenweem, Anstruther, Crail and other harbour villages."
+    },
+    {
+      "title": "Dunfermline",
+      "text": "Ancient capital with a medieval abbey and the birthplace of Andrew Carnegie."
+    }
+  ],
+  "places": [
+    {
+      "name": "The Old Course",
+      "where": "St Andrews",
+      "text": "The oldest golf course in the world."
+    },
+    {
+      "name": "Dunfermline Abbey",
+      "where": "Dunfermline",
+      "text": "Burial place of Robert the Bruce."
+    },
+    {
+      "name": "Culross",
+      "where": "Culross",
+      "text": "A 17th-century village preserved by the National Trust for Scotland."
+    }
+  ],
+  "food": [
+    "Anstruther fish and chips",
+    "Fife pies",
+    "Raspberry cranachan",
+    "Kirkcaldy ice cream"
+  ],
+  "festivals": [
+    {
+      "name": "The Open Championship",
+      "where": "St Andrews",
+      "month": 7,
+      "when": "July (when held at the Old Course)",
+      "text": "One of golf's four major championships."
+    },
+    {
+      "name": "East Neuk Festival",
+      "where": "East Neuk",
+      "month": 7,
+      "when": "Early July",
+      "text": "Classical music in historic buildings."
+    }
+  ],
+  "sport": {
+    "intro": "Golf began here: the Royal and Ancient Golf Club of St Andrews still sets the rules for most of the world.",
+    "clubs": [
+      {
+        "name": "Raith Rovers",
+        "sport": "Football",
+        "ground": "Stark's Park"
+      },
+      {
+        "name": "Dunfermline Athletic",
+        "sport": "Football",
+        "ground": "East End Park"
+      },
+      {
+        "name": "The Old Course",
+        "sport": "Golf",
+        "ground": "St Andrews"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Fife families emigrated in large numbers, and St Andrews alumni form a global network."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

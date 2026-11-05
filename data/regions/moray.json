@@ -1,0 +1,135 @@
+{
+  "slug": "moray",
+  "name": "Moray",
+  "adjective": "Moray",
+  "people": "Moray Scots",
+  "eyebrow": "North-east Scotland · Speyside",
+  "title": "Moray —",
+  "title_em": "whisky, beaches and a sunny coast.",
+  "tagline": "The heart of Speyside whisky and one of Scotland's sunniest coasts.",
+  "stats": [
+    [
+      "~96,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Moray lies on the Moray Firth, between Aberdeenshire and the Highlands. It has more working distilleries than anywhere else in Scotland, including Glenfiddich and Macallan, and a long sandy coast.",
+    "Elgin has the ruins of a famous medieval cathedral, and the fishing villages along the coast are full of character."
+  ],
+  "map": {
+    "viewBox": "269 320 68 73",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Elgin",
+        "lat": 57.649,
+        "lon": -3.318,
+        "note": "The county town with the cathedral ruins.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Forres",
+        "lat": 57.61,
+        "lon": -3.62,
+        "note": "A town known for its gardens.",
+        "label": "left"
+      },
+      {
+        "name": "Dufftown",
+        "lat": 57.45,
+        "lon": -3.14,
+        "note": "Often called the whisky capital."
+      },
+      {
+        "name": "Buckie",
+        "lat": 57.677,
+        "lon": -2.968,
+        "note": "A fishing town on the coast."
+      },
+      {
+        "name": "Cullen",
+        "lat": 57.69,
+        "lon": -2.82,
+        "note": "Home of the soup Cullen skink."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Speyside whisky",
+      "text": "The Speyside region has dozens of distilleries and the Malt Whisky Trail."
+    },
+    {
+      "title": "Elgin Cathedral",
+      "text": "A ruined medieval cathedral once called the 'Lantern of the North'."
+    },
+    {
+      "title": "Findhorn and the coast",
+      "text": "Dolphins, beaches and fishing villages along the Moray Firth."
+    }
+  ],
+  "places": [
+    {
+      "name": "Elgin Cathedral",
+      "where": "Elgin",
+      "text": "Dramatic ruins of a 13th-century cathedral."
+    },
+    {
+      "name": "Malt Whisky Trail",
+      "where": "Speyside",
+      "text": "A route linking distilleries and the cooperage."
+    },
+    {
+      "name": "Findhorn Bay",
+      "where": "Findhorn",
+      "text": "A sheltered bay with seals and sailing."
+    }
+  ],
+  "food": [
+    "Cullen skink",
+    "Single malt whisky",
+    "Moray shortbread",
+    "Fresh seafood"
+  ],
+  "festivals": [
+    {
+      "name": "Burning of the Clavie",
+      "where": "Burghead",
+      "month": 1,
+      "when": "11 January",
+      "text": "A fire festival on the old New Year's Eve."
+    },
+    {
+      "name": "Spirit of Speyside Festival",
+      "where": "Speyside",
+      "month": 5,
+      "when": "Early May",
+      "text": "A whisky festival with distillery events."
+    }
+  ],
+  "sport": {
+    "intro": "Highland League football and golf are popular, with many links courses along the coast.",
+    "clubs": [
+      {
+        "name": "Elgin City",
+        "sport": "Football",
+        "ground": "Borough Briggs"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Speyside families and the whisky industry have taken Moray's name around the world."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

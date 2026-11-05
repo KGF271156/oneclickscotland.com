@@ -1,0 +1,122 @@
+{
+  "slug": "midlothian",
+  "name": "Midlothian",
+  "adjective": "Midlothian",
+  "people": "Midlothian Scots",
+  "eyebrow": "Central Belt · Lothian",
+  "title": "Midlothian —",
+  "title_em": "Rosslyn, Roslin and the Pentland Hills.",
+  "tagline": "Rosslyn Chapel, the home of Dolly the sheep and hills on Edinburgh's doorstep.",
+  "stats": [
+    [
+      "~98,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Midlothian lies south of Edinburgh, between the city and the Moorfoot Hills. Rosslyn Chapel is a mysterious 15th-century church made famous by The Da Vinci Code.",
+    "The Roslin Institute produced Dolly the sheep, the first mammal cloned from an adult cell, in 1996."
+  ],
+  "map": {
+    "viewBox": "292 501 31 25",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Dalkeith",
+        "lat": 55.89,
+        "lon": -3.068,
+        "note": "The main town with the Palace.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Roslin",
+        "lat": 55.857,
+        "lon": -3.16,
+        "note": "Home of the chapel and the Institute.",
+        "label": "left"
+      },
+      {
+        "name": "Penicuik",
+        "lat": 55.828,
+        "lon": -3.22,
+        "note": "Near the Pentland Hills.",
+        "label": "left"
+      },
+      {
+        "name": "Gorebridge",
+        "lat": 55.845,
+        "lon": -3.03,
+        "note": "Former coal mining village."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Rosslyn Chapel",
+      "text": "A 15th-century chapel covered in carved stone."
+    },
+    {
+      "title": "Dolly the sheep",
+      "text": "The first cloned mammal, born at the Roslin Institute."
+    },
+    {
+      "title": "The Pentland Hills",
+      "text": "Regional park for walking and cycling."
+    }
+  ],
+  "places": [
+    {
+      "name": "Rosslyn Chapel",
+      "where": "Roslin",
+      "text": "A carved medieval chapel."
+    },
+    {
+      "name": "Dalkeith Country Park",
+      "where": "Dalkeith",
+      "text": "Woodland and an adventure park."
+    },
+    {
+      "name": "Crichton Castle",
+      "where": "Pathhead",
+      "text": "Ruined castle with an Italian-style façade."
+    }
+  ],
+  "food": [
+    "Scotch pies",
+    "Tablet",
+    "Shortbread"
+  ],
+  "festivals": [
+    {
+      "name": "Midlothian Science Festival",
+      "where": "Midlothian",
+      "month": 10,
+      "when": "October",
+      "text": "Talks and events at the Roslin Institute and elsewhere."
+    }
+  ],
+  "sport": {
+    "intro": "Rugby and walking in the Pentlands are popular in this region.",
+    "clubs": [
+      {
+        "name": "Dalkeith Thistle",
+        "sport": "Football",
+        "ground": "Kings Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Rosslyn Chapel draws visitors from all over the world, including many from Scotland's diaspora."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

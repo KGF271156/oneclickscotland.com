@@ -1,0 +1,122 @@
+{
+  "slug": "stirling",
+  "name": "Stirling",
+  "adjective": "Stirling",
+  "people": "Stirling Scots",
+  "eyebrow": "Central Scotland",
+  "title": "Stirling —",
+  "title_em": "the gateway to the Highlands.",
+  "tagline": "Where Wallace and Bruce fought and Scotland's past meets the Trossachs.",
+  "stats": [
+    [
+      "~92,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Stirling sits at the point where Lowlands meet Highlands, and for centuries whoever controlled its castle controlled Scotland. The battles of Stirling Bridge (1297) and Bannockburn (1314) were fought here.",
+    "To the west lie the Trossachs and Loch Lomond, known as the 'Highlands in miniature'."
+  ],
+  "map": {
+    "viewBox": "210 438 64 66",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Stirling",
+        "lat": 56.1165,
+        "lon": -3.9369,
+        "note": "A historic city beneath the castle.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Callander",
+        "lat": 56.244,
+        "lon": -4.215,
+        "note": "Gateway to the Trossachs."
+      },
+      {
+        "name": "Killin",
+        "lat": 56.46,
+        "lon": -4.32,
+        "note": "A village at the falls of Dochart."
+      },
+      {
+        "name": "Bridge of Allan",
+        "lat": 56.155,
+        "lon": -3.95,
+        "note": "A spa town with a university.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Stirling Castle",
+      "text": "A Renaissance royal palace above the town."
+    },
+    {
+      "title": "The Wallace Monument",
+      "text": "A tower commemorating William Wallace."
+    },
+    {
+      "title": "Bannockburn",
+      "text": "The site of Robert the Bruce's 1314 victory."
+    }
+  ],
+  "places": [
+    {
+      "name": "Stirling Castle",
+      "where": "Stirling",
+      "text": "One of the largest and most important castles in Scotland."
+    },
+    {
+      "name": "National Wallace Monument",
+      "where": "Stirling",
+      "text": "A Victorian tower with views over the Forth."
+    },
+    {
+      "name": "Loch Katrine",
+      "where": "Trossachs",
+      "text": "A loch of Walter Scott's The Lady of the Lake."
+    }
+  ],
+  "food": [
+    "Shortbread",
+    "Scotch pies",
+    "Venison",
+    "Whisky"
+  ],
+  "festivals": [
+    {
+      "name": "Bannockburn Live",
+      "where": "Stirling",
+      "month": 6,
+      "when": "Late June",
+      "text": "Re-enactments of the 1314 battle."
+    }
+  ],
+  "sport": {
+    "intro": "Stirling is a base for hillwalking, with the West Highland Way and Munro routes nearby.",
+    "clubs": [
+      {
+        "name": "Stirling Albion",
+        "sport": "Football",
+        "ground": "Forthbank Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Stirling's heroes Wallace and Bruce are honoured by Scots societies abroad."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

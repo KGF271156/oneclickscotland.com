@@ -1,0 +1,127 @@
+{
+  "slug": "east-lothian",
+  "name": "East Lothian",
+  "adjective": "East Lothian",
+  "people": "East Lothian Scots",
+  "eyebrow": "East Scotland · Lothian",
+  "title": "East Lothian —",
+  "title_em": "golf, beaches and fine food.",
+  "tagline": "Golden beaches, links golf and Scotland's sunniest corner.",
+  "stats": [
+    [
+      "~112,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "East Lothian is a coastal county east of Edinburgh with long beaches, Bass Rock and some of the world's best links golf courses, including Muirfield.",
+    "Dunbar is the birthplace of John Muir, the Scot who helped found the US national parks movement."
+  ],
+  "map": {
+    "viewBox": "306 487 43 29",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Haddington",
+        "lat": 55.956,
+        "lon": -2.777,
+        "note": "The county town.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "North Berwick",
+        "lat": 56.058,
+        "lon": -2.718,
+        "note": "A seaside resort with a law and harbour.",
+        "label": "left"
+      },
+      {
+        "name": "Dunbar",
+        "lat": 56.003,
+        "lon": -2.519,
+        "note": "A harbour town and John Muir's birthplace."
+      },
+      {
+        "name": "Musselburgh",
+        "lat": 55.942,
+        "lon": -3.054,
+        "note": "The 'Honest Toun' on the Esk.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Links golf",
+      "text": "Muirfield, North Berwick and Gullane are among the oldest and finest courses."
+    },
+    {
+      "title": "Bass Rock",
+      "text": "A volcanic plug white with gannets."
+    },
+    {
+      "title": "John Muir",
+      "text": "The father of the US national parks was born in Dunbar."
+    }
+  ],
+  "places": [
+    {
+      "name": "Tantallon Castle",
+      "where": "North Berwick",
+      "text": "A dramatic clifftop castle."
+    },
+    {
+      "name": "Scottish Seabird Centre",
+      "where": "North Berwick",
+      "text": "A view of gannets on Bass Rock."
+    },
+    {
+      "name": "John Muir Country Park",
+      "where": "Dunbar",
+      "text": "Coastal park around Belhaven Bay."
+    }
+  ],
+  "food": [
+    "Fresh seafood",
+    "Local potatoes",
+    "Haggis"
+  ],
+  "festivals": [
+    {
+      "name": "Fringe by the Sea",
+      "where": "North Berwick",
+      "month": 8,
+      "when": "August",
+      "text": "A seaside arts festival."
+    }
+  ],
+  "sport": {
+    "intro": "Golf began in places like these, with more courses per head than anywhere else in Scotland.",
+    "clubs": [
+      {
+        "name": "Muirfield",
+        "sport": "Golf",
+        "ground": "Gullane"
+      },
+      {
+        "name": "North Berwick",
+        "sport": "Golf",
+        "ground": "West Links"
+      }
+    ]
+  },
+  "community": {
+    "intro": "John Muir is celebrated across the US, where Scottish and American heritage meet."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

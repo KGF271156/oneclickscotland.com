@@ -1,0 +1,123 @@
+{
+  "slug": "inverclyde",
+  "name": "Inverclyde",
+  "adjective": "Inverclyde",
+  "people": "Inverclyde Scots",
+  "eyebrow": "West Scotland · Clyde",
+  "title": "Inverclyde —",
+  "title_em": "the lower Clyde and the Cut.",
+  "tagline": "Greenock, Gourock and the sweep of the Firth of Clyde.",
+  "stats": [
+    [
+      "~77,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Inverclyde is on the south side of the Clyde estuary, with Greenock, Gourock and Port Glasgow. Greenock was a shipbuilding and sugar town and the birthplace of James Watt.",
+    "Ferries from Gourock link to the Cowal peninsula, and the Greenock Cut is a historic aqueduct with views over the Clyde."
+  ],
+  "map": {
+    "viewBox": "211 499 18 15",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Greenock",
+        "lat": 55.9477,
+        "lon": -4.7617,
+        "note": "The largest town and former port.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Gourock",
+        "lat": 55.96,
+        "lon": -4.81,
+        "note": "A ferry town and seaside resort.",
+        "label": "left"
+      },
+      {
+        "name": "Port Glasgow",
+        "lat": 55.934,
+        "lon": -4.69,
+        "note": "A shipbuilding town with Newark Castle.",
+        "label": "left"
+      },
+      {
+        "name": "Kilmacolm",
+        "lat": 55.899,
+        "lon": -4.633,
+        "note": "A leafy village above the Clyde.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "James Watt",
+      "text": "The inventor of the improved steam engine, born in Greenock."
+    },
+    {
+      "title": "The Clyde views",
+      "text": "The Firth of Clyde seen from the hills above Greenock."
+    },
+    {
+      "title": "Ocean Terminal",
+      "text": "A cruise terminal at Greenock."
+    }
+  ],
+  "places": [
+    {
+      "name": "McLean Museum",
+      "where": "Greenock",
+      "text": "A museum about James Watt and local history."
+    },
+    {
+      "name": "Newark Castle",
+      "where": "Port Glasgow",
+      "text": "A 15th-century castle on the Clyde."
+    },
+    {
+      "name": "Greenock Cut",
+      "where": "Greenock",
+      "text": "A walking route along an old aqueduct."
+    }
+  ],
+  "food": [
+    "Fish suppers",
+    "Scotch pies",
+    "Tablet"
+  ],
+  "festivals": [
+    {
+      "name": "Gourock Highland Games",
+      "where": "Gourock",
+      "month": 7,
+      "when": "July",
+      "text": "One of Scotland's oldest Highland games."
+    }
+  ],
+  "sport": {
+    "intro": "Morton, the Ton, play at Cappielow, a traditional ground on the Clyde.",
+    "clubs": [
+      {
+        "name": "Greenock Morton",
+        "sport": "Football",
+        "ground": "Cappielow Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Greenock people emigrated in large numbers; its diaspora lives all over the world."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

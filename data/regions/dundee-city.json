@@ -1,0 +1,121 @@
+{
+  "slug": "dundee-city",
+  "name": "Dundee City",
+  "adjective": "Dundee",
+  "people": "Dundee Scots",
+  "eyebrow": "City · Tayside",
+  "title": "Dundee —",
+  "title_em": "jute, jam, journalism and design.",
+  "tagline": "The city of discovery, with Scotland's design museum on the Tay.",
+  "stats": [
+    [
+      "~149,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Dundee grew in the 19th century on jute, jam and journalism, and built the polar ship Discovery. Today it is known for the V&A Dundee, universities and video game industry.",
+    "The waterfront has been rebuilt in recent years, and the Law hill gives a view over the Tay estuary."
+  ],
+  "map": {
+    "viewBox": "307 445 16 7",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Dundee",
+        "lat": 56.462,
+        "lon": -2.9707,
+        "note": "City on the north shore of the Tay.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Broughty Ferry",
+        "lat": 56.466,
+        "lon": -2.874,
+        "note": "A seaside suburb with a castle."
+      },
+      {
+        "name": "Lochee",
+        "lat": 56.47,
+        "lon": -3.03,
+        "note": "Former jute mill district.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "V&A Dundee",
+      "text": "Scotland's design museum, opened in 2018 on the waterfront."
+    },
+    {
+      "title": "RRS Discovery",
+      "text": "The ship that took Scott to Antarctica, now a museum."
+    },
+    {
+      "title": "Games industry",
+      "text": "The home of Grand Theft Auto's early developers and Scotland's biggest games cluster."
+    }
+  ],
+  "places": [
+    {
+      "name": "V&A Dundee",
+      "where": "Dundee",
+      "text": "A museum of design shaped like a ship."
+    },
+    {
+      "name": "RRS Discovery",
+      "where": "Dundee",
+      "text": "Scott's Antarctic expedition ship."
+    },
+    {
+      "name": "Verdant Works",
+      "where": "Dundee",
+      "text": "A jute mill turned museum."
+    }
+  ],
+  "food": [
+    "Dundee cake",
+    "Dundee marmalade",
+    "Bridies",
+    "Pies"
+  ],
+  "festivals": [
+    {
+      "name": "Dundee Design Festival",
+      "where": "Dundee",
+      "month": 9,
+      "when": "September",
+      "text": "A celebration of design and creativity."
+    }
+  ],
+  "sport": {
+    "intro": "Dens Park and Tannadice stand almost next door to each other: the closest rival grounds in Britain.",
+    "clubs": [
+      {
+        "name": "Dundee FC",
+        "sport": "Football",
+        "ground": "Dens Park"
+      },
+      {
+        "name": "Dundee United",
+        "sport": "Football",
+        "ground": "Tannadice Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Dundonians emigrated widely, and Dundee-born families are found across Canada, Australia and the US."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

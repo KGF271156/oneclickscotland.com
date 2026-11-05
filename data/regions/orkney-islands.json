@@ -1,0 +1,124 @@
+{
+  "slug": "orkney-islands",
+  "name": "Orkney Islands",
+  "adjective": "Orkney",
+  "people": "Orkney Scots",
+  "eyebrow": "Northern Isles · Capital: Kirkwall",
+  "title": "Orkney —",
+  "title_em": "5,000 years of history.",
+  "tagline": "Skara Brae, Maeshowe and the best-preserved Neolithic landscape in Europe.",
+  "stats": [
+    [
+      "~22,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Orkney is a group of some 70 islands off the north coast of Scotland. The Heart of Neolithic Orkney, including Skara Brae, Maeshowe and the Ring of Brodgar, is a UNESCO World Heritage Site.",
+    "The islands were ruled by Norse earls and became part of Scotland in 1472. Kirkwall's St Magnus Cathedral is a Norse-era masterpiece."
+  ],
+  "map": {
+    "viewBox": "286 153 65 74",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Kirkwall",
+        "lat": 58.981,
+        "lon": -2.96,
+        "note": "The main town with St Magnus Cathedral.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Stromness",
+        "lat": 58.964,
+        "lon": -3.296,
+        "note": "A harbour town of stone lanes.",
+        "label": "left"
+      },
+      {
+        "name": "Skara Brae",
+        "lat": 59.049,
+        "lon": -3.342,
+        "note": "The Neolithic village.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Skara Brae",
+      "text": "A 5,000-year-old village buried by sand until a storm revealed it."
+    },
+    {
+      "title": "Ring of Brodgar",
+      "text": "A great stone circle on a spit of land."
+    },
+    {
+      "title": "Scapa Flow",
+      "text": "A natural harbour used by the Royal Navy and where the German fleet was scuttled in 1919."
+    }
+  ],
+  "places": [
+    {
+      "name": "Skara Brae",
+      "where": "Mainland Orkney",
+      "text": "The best-preserved Neolithic village in Europe."
+    },
+    {
+      "name": "St Magnus Cathedral",
+      "where": "Kirkwall",
+      "text": "A red sandstone cathedral founded in 1137."
+    },
+    {
+      "name": "Italian Chapel",
+      "where": "Lamb Holm",
+      "text": "A chapel made by prisoners of war from a Nissen hut."
+    }
+  ],
+  "food": [
+    "Orkney cheddar",
+    "Orkney fudge",
+    "Scapa and Highland Park whisky",
+    "Fresh seafood"
+  ],
+  "festivals": [
+    {
+      "name": "The Ba' Game",
+      "where": "Kirkwall",
+      "month": 12,
+      "when": "Christmas Day and New Year's Day",
+      "text": "A huge street game between the Uppies and Doonies."
+    },
+    {
+      "name": "St Magnus Festival",
+      "where": "Orkney",
+      "month": 6,
+      "when": "June",
+      "text": "A midsummer festival of music and arts."
+    }
+  ],
+  "sport": {
+    "intro": "The Ba' Game is a unique and centuries-old local tradition.",
+    "clubs": [
+      {
+        "name": "Orkney Rugby and Football clubs",
+        "sport": "Football / Rugby",
+        "ground": "Local grounds"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Orcadians were key to the Hudson's Bay Company, and their descendants are found across Canada."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

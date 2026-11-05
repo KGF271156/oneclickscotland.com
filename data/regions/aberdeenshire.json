@@ -1,0 +1,147 @@
+{
+  "slug": "aberdeenshire",
+  "name": "Aberdeenshire",
+  "adjective": "Aberdeenshire",
+  "people": "Aberdeenshire Scots",
+  "eyebrow": "North-east Scotland · Grampian",
+  "title": "Aberdeenshire —",
+  "title_em": "castles, whisky and the Highland Games.",
+  "tagline": "More castles per acre than anywhere in Britain, plus Balmoral and the Braemar Gathering.",
+  "stats": [
+    [
+      "~262,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Aberdeenshire stretches from the North Sea cliffs to the Cairngorms. It has the Castle Trail with more than a dozen castles, the Royal estate at Balmoral and a long working tradition of farming and fishing.",
+    "The Doric dialect is still heard here, and the region is the origin of many families who emigrated to Canada, the US and Australia."
+  ],
+  "map": {
+    "viewBox": "264 319 123 109",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Stonehaven",
+        "lat": 56.964,
+        "lon": -2.211,
+        "note": "Harbour town below Dunnottar Castle."
+      },
+      {
+        "name": "Braemar",
+        "lat": 57.006,
+        "lon": -3.398,
+        "note": "Highland village, home of the Gathering.",
+        "label": "left"
+      },
+      {
+        "name": "Ballater",
+        "lat": 57.05,
+        "lon": -3.04,
+        "note": "Royal Deeside town.",
+        "label": "left"
+      },
+      {
+        "name": "Banchory",
+        "lat": 57.05,
+        "lon": -2.51,
+        "note": "On the River Dee."
+      },
+      {
+        "name": "Inverurie",
+        "lat": 57.283,
+        "lon": -2.375,
+        "note": "Market town on the River Don."
+      },
+      {
+        "name": "Peterhead",
+        "lat": 57.506,
+        "lon": -1.783,
+        "note": "Scotland's most easterly town and a major fishing port."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Castle Trail",
+      "text": "Castles such as Crathes, Craigievar, Fyvie and Dunnottar."
+    },
+    {
+      "title": "Balmoral and Royal Deeside",
+      "text": "The King's Highland home and the valley of the River Dee."
+    },
+    {
+      "title": "Braemar Gathering",
+      "text": "One of the most famous Highland games, held every September."
+    }
+  ],
+  "places": [
+    {
+      "name": "Dunnottar Castle",
+      "where": "Stonehaven",
+      "text": "A ruined clifftop fortress above the North Sea."
+    },
+    {
+      "name": "Crathes Castle",
+      "where": "Banchory",
+      "text": "A 16th-century tower house with walled gardens."
+    },
+    {
+      "name": "Balmoral Castle",
+      "where": "Ballater",
+      "text": "The Royal family's Highland home, open to visitors in summer."
+    }
+  ],
+  "food": [
+    "Aberdeen Angus beef",
+    "Rowies",
+    "Oatcakes",
+    "Cullen skink",
+    "Whisky"
+  ],
+  "festivals": [
+    {
+      "name": "Braemar Gathering",
+      "where": "Braemar",
+      "month": 9,
+      "when": "First Saturday of September",
+      "text": "Caber tossing, hill racing and piping, often attended by the Royal family.",
+      "diaspora": true
+    },
+    {
+      "name": "Stonehaven Fireballs",
+      "where": "Stonehaven",
+      "month": 12,
+      "when": "Hogmanay",
+      "text": "Locals swing fireballs through the streets at midnight."
+    }
+  ],
+  "sport": {
+    "intro": "The Highland League is a strong local football tradition, and the Highland Games are big events.",
+    "clubs": [
+      {
+        "name": "Peterhead",
+        "sport": "Football",
+        "ground": "Balmoor"
+      },
+      {
+        "name": "Highland League clubs",
+        "sport": "Football",
+        "ground": "Across the region"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Aberdeenshire people are strongly represented among Scots in Canada, the US and Australasia."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

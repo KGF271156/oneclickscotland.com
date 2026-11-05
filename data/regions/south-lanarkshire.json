@@ -1,0 +1,133 @@
+{
+  "slug": "south-lanarkshire",
+  "name": "South Lanarkshire",
+  "adjective": "South Lanarkshire",
+  "people": "South Lanarkshire Scots",
+  "eyebrow": "Central Belt · Lanarkshire",
+  "title": "South Lanarkshire —",
+  "title_em": "New Lanark and the Clyde Valley.",
+  "tagline": "A UNESCO mill village, orchards on the Clyde and the town where Wallace began his rebellion.",
+  "stats": [
+    [
+      "~320,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "South Lanarkshire has the UNESCO World Heritage Site of New Lanark, a cotton mill village founded in 1786 and run by social reformer Robert Owen. The Clyde Valley is known for orchards and gardens.",
+    "Hamilton, East Kilbride and Rutherglen are the main towns, while Lanark is the place where William Wallace is said to have begun his rebellion in 1297."
+  ],
+  "map": {
+    "viewBox": "241 508 54 62",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Hamilton",
+        "lat": 55.777,
+        "lon": -4.039,
+        "note": "The administrative centre.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "East Kilbride",
+        "lat": 55.764,
+        "lon": -4.177,
+        "note": "Scotland's first new town.",
+        "label": "left"
+      },
+      {
+        "name": "Lanark",
+        "lat": 55.674,
+        "lon": -3.775,
+        "note": "A historic market town."
+      },
+      {
+        "name": "Biggar",
+        "lat": 55.625,
+        "lon": -3.519,
+        "note": "A small town with several museums."
+      },
+      {
+        "name": "Rutherglen",
+        "lat": 55.828,
+        "lon": -4.212,
+        "note": "An old royal burgh.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "New Lanark",
+      "text": "A model mill village, a UNESCO World Heritage Site."
+    },
+    {
+      "title": "The Falls of Clyde",
+      "text": "Waterfalls and a nature reserve beside the village."
+    },
+    {
+      "title": "Biggar",
+      "text": "A town with a tradition of Hogmanay bonfires and museums."
+    }
+  ],
+  "places": [
+    {
+      "name": "New Lanark",
+      "where": "Lanark",
+      "text": "A cotton mill village and visitor centre."
+    },
+    {
+      "name": "Chatelherault Country Park",
+      "where": "Hamilton",
+      "text": "A hunting lodge with gardens."
+    },
+    {
+      "name": "Falls of Clyde",
+      "where": "Lanark",
+      "text": "A wildlife reserve beside the river."
+    }
+  ],
+  "food": [
+    "Clyde Valley tomatoes and fruit",
+    "Scotch pies",
+    "Tablet"
+  ],
+  "festivals": [
+    {
+      "name": "Lanimers Day",
+      "where": "Lanark",
+      "month": 6,
+      "when": "June",
+      "text": "A civic festival with a procession and picking of the Lanimer Queen."
+    }
+  ],
+  "sport": {
+    "intro": "Lanark Racecourse is one of Scotland's racecourses, and local football clubs have a loyal following.",
+    "clubs": [
+      {
+        "name": "Hamilton Academical",
+        "sport": "Football",
+        "ground": "New Douglas Park"
+      },
+      {
+        "name": "Lanark Racecourse",
+        "sport": "Horse racing",
+        "ground": "Lanark"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Robert Owen's New Lanark inspired reformers in Britain and America."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

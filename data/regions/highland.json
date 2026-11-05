@@ -1,0 +1,156 @@
+{
+  "slug": "highland",
+  "name": "Highland",
+  "adjective": "Highland",
+  "people": "Highland Scots",
+  "eyebrow": "North Scotland · Capital: Inverness",
+  "title": "The Highlands —",
+  "title_em": "mountains, lochs and clans.",
+  "tagline": "Ben Nevis, Loch Ness, Skye and the open spaces that still draw millions of visitors.",
+  "stats": [
+    [
+      "~235,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Highland is the largest council area in Scotland and the UK, covering the Highlands and a long stretch of north coast. It includes Ben Nevis, Britain's highest mountain, Loch Ness, the Isle of Skye and the Cairngorms.",
+    "After the Battle of Culloden in 1746 and the Clearances that followed, tens of thousands of Highlanders emigrated, and the diaspora in Canada, the US, Australia and New Zealand is huge."
+  ],
+  "map": {
+    "viewBox": "97 213 229 246",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Inverness",
+        "lat": 57.4778,
+        "lon": -4.2247,
+        "note": "The Highland capital on the River Ness.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Fort William",
+        "lat": 56.8198,
+        "lon": -5.1052,
+        "note": "At the foot of Ben Nevis.",
+        "label": "left"
+      },
+      {
+        "name": "Portree",
+        "lat": 57.4129,
+        "lon": -6.1936,
+        "note": "Main town on the Isle of Skye.",
+        "label": "left"
+      },
+      {
+        "name": "Ullapool",
+        "lat": 57.8954,
+        "lon": -5.1597,
+        "note": "Ferry port to the Outer Hebrides.",
+        "label": "left"
+      },
+      {
+        "name": "Thurso",
+        "lat": 58.5933,
+        "lon": -3.5222,
+        "note": "The most northerly town on the mainland."
+      },
+      {
+        "name": "Wick",
+        "lat": 58.4393,
+        "lon": -3.0944,
+        "note": "Historic herring town in Caithness."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Ben Nevis and Glen Coe",
+      "text": "Britain's highest mountain and one of its most dramatic glens."
+    },
+    {
+      "title": "Loch Ness and Urquhart Castle",
+      "text": "The home of the monster legend."
+    },
+    {
+      "title": "Culloden",
+      "text": "The 1746 battlefield, the last pitched battle on British soil."
+    }
+  ],
+  "places": [
+    {
+      "name": "Ben Nevis",
+      "where": "Fort William",
+      "text": "Britain's highest mountain at 1,345 metres."
+    },
+    {
+      "name": "Eilean Donan Castle",
+      "where": "Dornie",
+      "text": "A castle on a tidal island in Loch Duich."
+    },
+    {
+      "name": "Culloden Battlefield",
+      "where": "Inverness",
+      "text": "The site of the 1746 battle."
+    }
+  ],
+  "food": [
+    "Venison",
+    "Highland smoked salmon",
+    "Cranachan",
+    "Whisky (Skye, Speyside edge)",
+    "Cullen skink"
+  ],
+  "festivals": [
+    {
+      "name": "Inverness Highland Games",
+      "where": "Inverness",
+      "month": 7,
+      "when": "July",
+      "text": "Piping, dancing and heavy events.",
+      "diaspora": true
+    },
+    {
+      "name": "Mòd (Royal National Mòd)",
+      "where": "Varies",
+      "month": 10,
+      "when": "October",
+      "text": "The Gaelic festival of song, music and poetry.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Shinty, the ancient Highland stick-and-ball game, is still played fiercely in the glens.",
+    "clubs": [
+      {
+        "name": "Inverness Caledonian Thistle",
+        "sport": "Football",
+        "ground": "Caledonian Stadium"
+      },
+      {
+        "name": "Ross County",
+        "sport": "Football",
+        "ground": "Victoria Park, Dingwall"
+      },
+      {
+        "name": "Shinty clubs",
+        "sport": "Shinty",
+        "ground": "Kingussie, Newtonmore and others"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Descendants of Highlanders make up much of the Scottish diaspora, and clan societies in Canada, the US and Australia keep the connection strong."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

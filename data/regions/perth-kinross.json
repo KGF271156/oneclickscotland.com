@@ -1,0 +1,137 @@
+{
+  "slug": "perth-kinross",
+  "name": "Perth and Kinross",
+  "adjective": "Perth & Kinross",
+  "people": "Perth & Kinross Scots",
+  "eyebrow": "Central Scotland · Perthshire",
+  "title": "Perthshire —",
+  "title_em": "big skies and the gateway to the Highlands.",
+  "tagline": "Scone Palace, Pitlochry, Loch Tay and some of Scotland's finest scenery.",
+  "stats": [
+    [
+      "~151,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Perth and Kinross is Scotland's heart: lowland farmland, big rivers and the first Highland glens. Perth, the ancient capital, is where Scottish kings were crowned at Scone.",
+    "The region is known as Big Tree Country and has Pitlochry, Loch Tay and the dramatic Birks of Aberfeldy."
+  ],
+  "map": {
+    "viewBox": "216 396 100 92",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Perth",
+        "lat": 56.395,
+        "lon": -3.4308,
+        "note": "The 'Fair City' on the River Tay.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Pitlochry",
+        "lat": 56.705,
+        "lon": -3.734,
+        "note": "Highland town with a Festival Theatre."
+      },
+      {
+        "name": "Aberfeldy",
+        "lat": 56.62,
+        "lon": -3.87,
+        "note": "Near the Birks and Loch Tay.",
+        "label": "left"
+      },
+      {
+        "name": "Crieff",
+        "lat": 56.3722,
+        "lon": -3.8419,
+        "note": "A spa town on the edge of the Highlands.",
+        "label": "left"
+      },
+      {
+        "name": "Blairgowrie",
+        "lat": 56.592,
+        "lon": -3.34,
+        "note": "Centre of Scottish raspberry growing."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Scone Palace",
+      "text": "Where Scottish kings were crowned on the Stone of Destiny."
+    },
+    {
+      "title": "Pitlochry",
+      "text": "A Highland resort with a famous theatre and fish ladder."
+    },
+    {
+      "title": "Big Tree Country",
+      "text": "Ancient woodlands, including Britain's oldest tree, the Fortingall Yew."
+    }
+  ],
+  "places": [
+    {
+      "name": "Scone Palace",
+      "where": "Perth",
+      "text": "Historic crowning place of Scottish kings."
+    },
+    {
+      "name": "Blair Castle",
+      "where": "Blair Atholl",
+      "text": "A white castle and seat of the Duke of Atholl."
+    },
+    {
+      "name": "Loch Tay",
+      "where": "Kenmore",
+      "text": "A long loch under Ben Lawers."
+    }
+  ],
+  "food": [
+    "Perthshire raspberries",
+    "Cranachan",
+    "Whisky (Edradour, Blair Athol)",
+    "Venison"
+  ],
+  "festivals": [
+    {
+      "name": "Perth Festival of the Arts",
+      "where": "Perth",
+      "month": 5,
+      "when": "May",
+      "text": "Music, theatre and visual arts."
+    },
+    {
+      "name": "Blair Castle International Highland Gathering",
+      "where": "Blair Atholl",
+      "month": 8,
+      "when": "August",
+      "text": "A Highland games at the castle.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "St Johnstone won the Scottish Cup in 2014 and 2021.",
+    "clubs": [
+      {
+        "name": "St Johnstone",
+        "sport": "Football",
+        "ground": "McDiarmid Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Perthshire families are well represented in Canada, the US and Australia."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

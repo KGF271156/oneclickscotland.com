@@ -1,0 +1,142 @@
+{
+  "slug": "dumfries-galloway",
+  "name": "Dumfries and Galloway",
+  "adjective": "Dumfries & Galloway",
+  "people": "Dumfries & Galloway Scots",
+  "eyebrow": "South-west Scotland",
+  "title": "Dumfries and Galloway —",
+  "title_em": "Burns, dark skies and quiet coasts.",
+  "tagline": "Robert Burns' last home, Gretna Green and Scotland's first Dark Sky Park.",
+  "stats": [
+    [
+      "~146,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Dumfries and Galloway is Scotland's south-west corner, with a long coastline, forests and quiet villages. Robert Burns spent his last years in Dumfries.",
+    "The Galloway Forest Park has Scotland's first Dark Sky Park, and Gretna Green is famous for runaway weddings."
+  ],
+  "map": {
+    "viewBox": "189 542 140 98",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Dumfries",
+        "lat": 55.07,
+        "lon": -3.605,
+        "note": "The 'Queen of the South' and the Burns town.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Gretna",
+        "lat": 54.997,
+        "lon": -3.06,
+        "note": "Gretna Green, on the border."
+      },
+      {
+        "name": "Kirkcudbright",
+        "lat": 54.838,
+        "lon": -4.05,
+        "note": "An artists' town on the Dee estuary.",
+        "label": "left"
+      },
+      {
+        "name": "Stranraer",
+        "lat": 54.9,
+        "lon": -5.03,
+        "note": "A ferry port to Northern Ireland.",
+        "label": "left"
+      },
+      {
+        "name": "Moffat",
+        "lat": 55.333,
+        "lon": -3.44,
+        "note": "A spa town in the hills."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Robert Burns in Dumfries",
+      "text": "The poet lived and died here; his house and mausoleum can be visited."
+    },
+    {
+      "title": "Gretna Green",
+      "text": "Famous as the place where couples married without parental consent."
+    },
+    {
+      "title": "Galloway Dark Sky Park",
+      "text": "One of the darkest places in the UK, for star-gazing."
+    }
+  ],
+  "places": [
+    {
+      "name": "Robert Burns House",
+      "where": "Dumfries",
+      "text": "The poet's last home."
+    },
+    {
+      "name": "Caerlaverock Castle",
+      "where": "Dumfries",
+      "text": "A triangular castle with a moat."
+    },
+    {
+      "name": "Galloway Forest Park",
+      "where": "Newton Stewart",
+      "text": "Scotland's largest forest park."
+    }
+  ],
+  "food": [
+    "Ecclefechan tart",
+    "Galloway beef",
+    "Dumfries ice cream",
+    "Cheese"
+  ],
+  "festivals": [
+    {
+      "name": "Burns Night",
+      "where": "Dumfries",
+      "month": 1,
+      "when": "25 January",
+      "text": "Burns suppers marking the poet's birthday.",
+      "diaspora": true
+    },
+    {
+      "name": "Gatehouse of Fleet Festival",
+      "where": "Gatehouse of Fleet",
+      "month": 8,
+      "when": "August",
+      "text": "Local arts festival."
+    }
+  ],
+  "sport": {
+    "intro": "Queen of the South in Dumfries, the Doonhamers, are the only league club whose name is the town's nickname.",
+    "clubs": [
+      {
+        "name": "Queen of the South",
+        "sport": "Football",
+        "ground": "Palmerston Park"
+      },
+      {
+        "name": "Stranraer",
+        "sport": "Football",
+        "ground": "Stair Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Burns suppers and the Burns clubs of the world trace their spirit back to Dumfries."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

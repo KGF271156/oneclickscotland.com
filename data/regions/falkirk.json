@@ -1,0 +1,114 @@
+{
+  "slug": "falkirk",
+  "name": "Falkirk",
+  "adjective": "Falkirk",
+  "people": "Falkirk Scots",
+  "eyebrow": "Central Scotland",
+  "title": "Falkirk —",
+  "title_em": "Kelpies, a wheel and a Roman wall.",
+  "tagline": "The Kelpies, the Falkirk Wheel and the northernmost edge of the Roman Empire.",
+  "stats": [
+    [
+      "~160,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Falkirk sits between Edinburgh and Glasgow on the Forth and Clyde and Union canals. The Falkirk Wheel is a rotating boat lift linking the two, and The Kelpies are two 30-metre horse-head sculptures.",
+    "The Antonine Wall, a UNESCO World Heritage Site, marks the northern frontier of the Roman Empire."
+  ],
+  "map": {
+    "viewBox": "257 484 31 24",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Falkirk",
+        "lat": 56.0019,
+        "lon": -3.7839,
+        "note": "The council seat.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Grangemouth",
+        "lat": 56.01,
+        "lon": -3.722,
+        "note": "A port and petrochemical town."
+      },
+      {
+        "name": "Bo'ness",
+        "lat": 56.017,
+        "lon": -3.605,
+        "note": "A heritage railway town on the Forth."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Kelpies",
+      "text": "Two giant steel horse heads by Andy Scott, 30 metres high."
+    },
+    {
+      "title": "Falkirk Wheel",
+      "text": "The world's only rotating boat lift."
+    },
+    {
+      "title": "Antonine Wall",
+      "text": "A turf Roman frontier built in the 2nd century."
+    }
+  ],
+  "places": [
+    {
+      "name": "The Kelpies",
+      "where": "Helix Park",
+      "text": "Sculptures celebrating Scotland's working horses."
+    },
+    {
+      "name": "Falkirk Wheel",
+      "where": "Falkirk",
+      "text": "A boat lift opened in 2002."
+    },
+    {
+      "name": "Callendar House",
+      "where": "Falkirk",
+      "text": "A mansion and parkland."
+    }
+  ],
+  "food": [
+    "Scotch pies",
+    "Tunnock's treats",
+    "Fish suppers"
+  ],
+  "festivals": [
+    {
+      "name": "Falkirk Fireworks",
+      "where": "Falkirk",
+      "month": 11,
+      "when": "Early November",
+      "text": "A big bonfire night display."
+    }
+  ],
+  "sport": {
+    "intro": "Falkirk FC, the Bairns, have played in the Scottish league for over a century.",
+    "clubs": [
+      {
+        "name": "Falkirk FC",
+        "sport": "Football",
+        "ground": "Falkirk Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "The Kelpies have become an emblem of modern Scotland for the diaspora."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

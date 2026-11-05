@@ -1,0 +1,114 @@
+{
+  "slug": "clackmannanshire",
+  "name": "Clackmannanshire",
+  "adjective": "Clackmannanshire",
+  "people": "Clackmannanshire Scots",
+  "eyebrow": "Central Scotland · The Wee County",
+  "title": "Clackmannanshire —",
+  "title_em": "the Wee County.",
+  "tagline": "Scotland's smallest mainland council area, with the Ochil Hills on its doorstep.",
+  "stats": [
+    [
+      "~52,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Clackmannanshire is known as the Wee County. It sits on the north side of the Forth beneath the Ochil Hills, with Alloa as its main town.",
+    "Alloa Tower and Castle Campbell above Dollar Glen are the stars, and the old brewing and glass industries shaped local life."
+  ],
+  "map": {
+    "viewBox": "265 473 19 16",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Alloa",
+        "lat": 56.1167,
+        "lon": -3.79,
+        "note": "The main town with Alloa Tower.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Dollar",
+        "lat": 56.155,
+        "lon": -3.67,
+        "note": "Home of Dollar Academy and the glen."
+      },
+      {
+        "name": "Tillicoultry",
+        "lat": 56.15,
+        "lon": -3.74,
+        "note": "Ochil Hills foothills.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Wee County",
+      "text": "The smallest historic county in Scotland."
+    },
+    {
+      "title": "Castle Campbell",
+      "text": "A hilltop castle above Dollar Glen."
+    },
+    {
+      "title": "Ochil Hills",
+      "text": "Hills for walking, with views over the Forth Valley."
+    }
+  ],
+  "places": [
+    {
+      "name": "Alloa Tower",
+      "where": "Alloa",
+      "text": "A medieval tower of the Earls of Mar."
+    },
+    {
+      "name": "Castle Campbell",
+      "where": "Dollar",
+      "text": "15th-century castle in the glen."
+    },
+    {
+      "name": "Gartmorn Dam",
+      "where": "Sauchie",
+      "text": "A 17th-century dam and nature reserve."
+    }
+  ],
+  "food": [
+    "Scottish beer",
+    "Scotch pies"
+  ],
+  "festivals": [
+    {
+      "name": "Alloa Highland Games",
+      "where": "Alloa",
+      "month": 6,
+      "when": "June",
+      "text": "A friendly local gathering."
+    }
+  ],
+  "sport": {
+    "intro": "Hill running and walking in the Ochils are popular, as is local football.",
+    "clubs": [
+      {
+        "name": "Alloa Athletic",
+        "sport": "Football",
+        "ground": "Recreation Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "The Wee County has a strong sense of community, and its people have settled all over the world."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

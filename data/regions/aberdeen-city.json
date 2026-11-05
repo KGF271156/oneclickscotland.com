@@ -1,0 +1,123 @@
+{
+  "slug": "aberdeen-city",
+  "name": "Aberdeen City",
+  "adjective": "Aberdeen",
+  "people": "Aberdeen Scots",
+  "eyebrow": "City · North-east Scotland",
+  "title": "Aberdeen —",
+  "title_em": "the Granite City.",
+  "tagline": "A silver-grey city by the North Sea, energy capital and home of the Dons.",
+  "stats": [
+    [
+      "~227,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Aberdeen is built of local granite that glitters in the sun, and for fifty years has been the centre of Europe's North Sea oil and gas industry. It also has two universities and a long fishing and shipping history.",
+    "The city has a notable library, art gallery and the Marischal College, one of the largest granite buildings in the world."
+  ],
+  "map": {
+    "viewBox": "347 371 19 18",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Aberdeen",
+        "lat": 57.1497,
+        "lon": -2.0943,
+        "note": "Granite city, harbour and university.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Footdee",
+        "lat": 57.145,
+        "lon": -2.06,
+        "note": "A planned fishing village at the harbour."
+      },
+      {
+        "name": "Old Aberdeen",
+        "lat": 57.165,
+        "lon": -2.103,
+        "note": "A medieval quarter around King's College.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Granite City",
+      "text": "Buildings of silvery granite give Aberdeen a look found nowhere else."
+    },
+    {
+      "title": "Energy industry",
+      "text": "North Sea oil and gas shaped the modern city; today it is also a centre of renewable energy."
+    },
+    {
+      "title": "Footdee (Fittie)",
+      "text": "A tiny fishing village of colourful cottages at the harbour mouth."
+    }
+  ],
+  "places": [
+    {
+      "name": "Marischal College",
+      "where": "Aberdeen",
+      "text": "One of the world's largest granite buildings."
+    },
+    {
+      "name": "Aberdeen Maritime Museum",
+      "where": "Aberdeen",
+      "text": "The story of the North Sea, fishing and shipbuilding."
+    },
+    {
+      "name": "Duthie Park Winter Gardens",
+      "where": "Aberdeen",
+      "text": "One of Europe's largest indoor gardens."
+    }
+  ],
+  "food": [
+    "Aberdeen butteries (rowies)",
+    "Aberdeen Angus beef",
+    "Cullen skink",
+    "Fresh North Sea fish"
+  ],
+  "festivals": [
+    {
+      "name": "Aberdeen International Youth Festival",
+      "where": "Aberdeen",
+      "month": 7,
+      "when": "July",
+      "text": "Young performers from around the world."
+    },
+    {
+      "name": "Spectra Festival of Light",
+      "where": "Aberdeen",
+      "month": 2,
+      "when": "February",
+      "text": "Light art across the city centre."
+    }
+  ],
+  "sport": {
+    "intro": "Aberdeen FC, the Dons, won the European Cup Winners' Cup in 1983 under Alex Ferguson.",
+    "clubs": [
+      {
+        "name": "Aberdeen FC",
+        "sport": "Football",
+        "ground": "Pittodrie Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Aberdonians left for Canada, North America and Australia, and many returned with the oil industry; the Doric dialect is proudly kept alive."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

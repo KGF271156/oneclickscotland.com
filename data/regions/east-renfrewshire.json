@@ -1,0 +1,115 @@
+{
+  "slug": "east-renfrewshire",
+  "name": "East Renfrewshire",
+  "adjective": "East Renfrewshire",
+  "people": "East Renfrewshire Scots",
+  "eyebrow": "West Scotland",
+  "title": "East Renfrewshire —",
+  "title_em": "moors, parks and big views.",
+  "tagline": "Leafy suburbs and open moorland on Glasgow's southern edge.",
+  "stats": [
+    [
+      "~96,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "East Renfrewshire is south-west of Glasgow, with Giffnock, Newton Mearns, Barrhead and Neilston. It includes Whitelee Wind Farm, one of the largest onshore wind farms in Europe.",
+    "The area is known for its good schools, Rouken Glen Park and views to the Campsie Fells."
+  ],
+  "map": {
+    "viewBox": "229 513 20 17",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Giffnock",
+        "lat": 55.804,
+        "lon": -4.293,
+        "note": "A suburban town.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Newton Mearns",
+        "lat": 55.77,
+        "lon": -4.3,
+        "note": "A large residential town."
+      },
+      {
+        "name": "Barrhead",
+        "lat": 55.8,
+        "lon": -4.39,
+        "note": "A former textile town.",
+        "label": "left"
+      },
+      {
+        "name": "Eaglesham",
+        "lat": 55.732,
+        "lon": -4.273,
+        "note": "A planned village."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Whitelee Wind Farm",
+      "text": "One of Europe's largest onshore wind farms on Eaglesham Moor."
+    },
+    {
+      "title": "Rouken Glen Park",
+      "text": "A Victorian park with a waterfall."
+    },
+    {
+      "title": "Eaglesham",
+      "text": "A conservation village."
+    }
+  ],
+  "places": [
+    {
+      "name": "Whitelee Windfarm Visitor Centre",
+      "where": "Eaglesham Moor",
+      "text": "Walking trails among the turbines."
+    },
+    {
+      "name": "Rouken Glen",
+      "where": "Thornliebank",
+      "text": "A park with a walled garden."
+    },
+    {
+      "name": "Dams to Darnley",
+      "where": "Barrhead",
+      "text": "A country park and trails."
+    }
+  ],
+  "food": [
+    "Scotch pies",
+    "Cafe culture",
+    "Sweet treats"
+  ],
+  "festivals": [
+    {
+      "name": "Eaglesham Fair",
+      "where": "Eaglesham",
+      "month": 6,
+      "when": "June",
+      "text": "A village fair."
+    }
+  ],
+  "sport": {
+    "intro": "Cycling, walking and golf are popular here.",
+    "clubs": []
+  },
+  "community": {
+    "intro": "East Renfrewshire's mix of communities includes many with roots in the wider Scottish diaspora."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

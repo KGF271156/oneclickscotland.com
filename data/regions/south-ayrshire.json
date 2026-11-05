@@ -1,0 +1,148 @@
+{
+  "slug": "south-ayrshire",
+  "name": "South Ayrshire",
+  "adjective": "South Ayrshire",
+  "people": "South Ayrshire Scots",
+  "eyebrow": "South-west Scotland · Ayrshire",
+  "title": "South Ayrshire —",
+  "title_em": "Burns Country and Turnberry.",
+  "tagline": "The birthplace of Robert Burns, Culzean Castle and some of the world's finest golf.",
+  "stats": [
+    [
+      "~112,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "South Ayrshire is Burns Country. The poet was born in Alloway in 1759, and the Burns Birthplace Museum, the cottage, the Brig o' Doon and Burns Monument are all here.",
+    "The coast has Culzean Castle, golf at Turnberry and Troon, and the sandy beaches of Ayr and Prestwick."
+  ],
+  "map": {
+    "viewBox": "196 533 46 67",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Ayr",
+        "lat": 55.4586,
+        "lon": -4.6292,
+        "note": "The county town and beach resort.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Alloway",
+        "lat": 55.43,
+        "lon": -4.64,
+        "note": "Burns's birthplace.",
+        "label": "left"
+      },
+      {
+        "name": "Troon",
+        "lat": 55.543,
+        "lon": -4.65,
+        "note": "A golf and ferry town.",
+        "label": "left"
+      },
+      {
+        "name": "Girvan",
+        "lat": 55.24,
+        "lon": -4.86,
+        "note": "A harbour town facing Ailsa Craig.",
+        "label": "left"
+      },
+      {
+        "name": "Maybole",
+        "lat": 55.35,
+        "lon": -4.68,
+        "note": "The old capital of Carrick."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Burns Birthplace",
+      "text": "Alloway cottage and museum, and Tam o' Shanter's Brig o' Doon."
+    },
+    {
+      "title": "Culzean Castle",
+      "text": "A clifftop castle above the Firth of Clyde."
+    },
+    {
+      "title": "Golf",
+      "text": "Turnberry, Royal Troon and Prestwick have all hosted the Open."
+    }
+  ],
+  "places": [
+    {
+      "name": "Robert Burns Birthplace Museum",
+      "where": "Alloway",
+      "text": "The poet's cottage and a modern museum."
+    },
+    {
+      "name": "Culzean Castle",
+      "where": "Maybole",
+      "text": "A Robert Adam castle in a country park."
+    },
+    {
+      "name": "Turnberry",
+      "where": "Turnberry",
+      "text": "Hotel and golf resort with a lighthouse."
+    }
+  ],
+  "food": [
+    "Haggis, neeps and tatties",
+    "Ayrshire bacon",
+    "Ayrshire tatties",
+    "Tablet"
+  ],
+  "festivals": [
+    {
+      "name": "Burns an' a' That Festival",
+      "where": "Ayr",
+      "month": 5,
+      "when": "May",
+      "text": "A festival of Burns-related events."
+    },
+    {
+      "name": "Burns Night",
+      "where": "Alloway",
+      "month": 1,
+      "when": "25 January",
+      "text": "Suppers across the area.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Ayrshire's links courses have hosted the Open Championship many times.",
+    "clubs": [
+      {
+        "name": "Ayr United",
+        "sport": "Football",
+        "ground": "Somerset Park"
+      },
+      {
+        "name": "Royal Troon",
+        "sport": "Golf",
+        "ground": "Troon"
+      },
+      {
+        "name": "Turnberry",
+        "sport": "Golf",
+        "ground": "Turnberry"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Burns Night is the most widely celebrated Scottish event abroad, and Alloway is its spiritual home."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

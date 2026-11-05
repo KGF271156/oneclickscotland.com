@@ -1,0 +1,153 @@
+{
+  "slug": "argyll-bute",
+  "name": "Argyll and Bute",
+  "adjective": "Argyll & Bute",
+  "people": "Argyll & Bute Scots",
+  "eyebrow": "West Scotland · Islands and sea lochs",
+  "title": "Argyll and Bute —",
+  "title_em": "sea lochs, islands and the birthplace of Scotland.",
+  "tagline": "Oban, Mull, Iona, Islay and the cradle of the Scots kingdom.",
+  "stats": [
+    [
+      "~87,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Argyll and Bute is Scotland's second-longest coastline of sea lochs, peninsulas and islands: Mull, Iona, Islay, Jura, Bute, Colonsay and many more. The kingdom of Dál Riata, from which Scotland grew, was based here.",
+    "Iona was the home of St Columba's monastery from 563, and Islay is famous for its smoky malt whiskies."
+  ],
+  "map": {
+    "viewBox": "90 418 148 159",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Lochgilphead",
+        "lat": 56.038,
+        "lon": -5.43,
+        "note": "The administrative centre of Argyll.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Oban",
+        "lat": 56.415,
+        "lon": -5.471,
+        "note": "A harbour town and ferry hub.",
+        "label": "left"
+      },
+      {
+        "name": "Inveraray",
+        "lat": 56.233,
+        "lon": -5.07,
+        "note": "The Duke of Argyll's town and castle.",
+        "label": "left"
+      },
+      {
+        "name": "Dunoon",
+        "lat": 55.947,
+        "lon": -4.923,
+        "note": "The main town of the Cowal peninsula.",
+        "label": "left"
+      },
+      {
+        "name": "Campbeltown",
+        "lat": 55.424,
+        "lon": -5.607,
+        "note": "A whisky town on Kintyre.",
+        "label": "left"
+      },
+      {
+        "name": "Tobermory",
+        "lat": 56.623,
+        "lon": -6.064,
+        "note": "A coloured harbour village on Mull.",
+        "label": "left"
+      },
+      {
+        "name": "Bowmore",
+        "lat": 55.757,
+        "lon": -6.29,
+        "note": "Islay's main village.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Iona",
+      "text": "St Columba's island and one of the most sacred places in Scotland."
+    },
+    {
+      "title": "Islay whisky",
+      "text": "Laphroaig, Lagavulin, Ardbeg and other smoky malts."
+    },
+    {
+      "title": "Oban",
+      "text": "A harbour town and the gateway to the Isles."
+    }
+  ],
+  "places": [
+    {
+      "name": "Iona Abbey",
+      "where": "Isle of Iona",
+      "text": "A restored abbey on St Columba's island."
+    },
+    {
+      "name": "Inveraray Castle",
+      "where": "Inveraray",
+      "text": "Seat of the Duke of Argyll and Clan Campbell."
+    },
+    {
+      "name": "Kilmartin Glen",
+      "where": "Kilmartin",
+      "text": "A landscape of ancient standing stones and cairns."
+    }
+  ],
+  "food": [
+    "Islay malt whisky",
+    "Seafood from Oban",
+    "Mull cheddar",
+    "Oatcakes"
+  ],
+  "festivals": [
+    {
+      "name": "Cowal Highland Gathering",
+      "where": "Dunoon",
+      "month": 8,
+      "when": "Late August",
+      "text": "The world's largest Highland games, with pipe bands and dancers.",
+      "diaspora": true
+    },
+    {
+      "name": "Islay Festival (Fèis Ìle)",
+      "where": "Islay",
+      "month": 5,
+      "when": "Late May",
+      "text": "Whisky and music festival."
+    }
+  ],
+  "sport": {
+    "intro": "Shinty and sailing are strong here, with regattas on the Firth of Clyde.",
+    "clubs": [
+      {
+        "name": "Shinty clubs",
+        "sport": "Shinty",
+        "ground": "Oban Camanachd and others"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Argyll was the home of many clans, notably the Campbells and the MacDonalds, whose descendants live around the world."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "scottish-borders",
+  "name": "Scottish Borders",
+  "adjective": "Scottish Borders",
+  "people": "Scottish Borders Scots",
+  "eyebrow": "South Scotland · The Borders",
+  "title": "The Borders —",
+  "title_em": "abbeys, rugby and Sir Walter Scott.",
+  "tagline": "Ruined abbeys, rolling hills, rugby sevens and the home of Sir Walter Scott.",
+  "stats": [
+    [
+      "~116,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "The Scottish Borders is a land of rolling hills and four great ruined abbeys: Melrose, Jedburgh, Kelso and Dryburgh. Centuries of raids and wars left castles, tower houses and a ballad tradition.",
+    "Sir Walter Scott built Abbotsford here, and the Borders are the home of Scottish rugby sevens and the Common Ridings."
+  ],
+  "map": {
+    "viewBox": "280 496 91 94",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Galashiels",
+        "lat": 55.615,
+        "lon": -2.81,
+        "note": "A mill town and Borders hub.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Melrose",
+        "lat": 55.599,
+        "lon": -2.722,
+        "note": "Home of the abbey and rugby sevens."
+      },
+      {
+        "name": "Kelso",
+        "lat": 55.599,
+        "lon": -2.433,
+        "note": "An elegant market town."
+      },
+      {
+        "name": "Hawick",
+        "lat": 55.423,
+        "lon": -2.786,
+        "note": "Knitwear and rugby town.",
+        "label": "left"
+      },
+      {
+        "name": "Peebles",
+        "lat": 55.65,
+        "lon": -3.19,
+        "note": "A riverside town on the Tweed.",
+        "label": "left"
+      },
+      {
+        "name": "Jedburgh",
+        "lat": 55.479,
+        "lon": -2.553,
+        "note": "Abbey town close to the English border."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Border Abbeys",
+      "text": "Melrose, Jedburgh, Kelso and Dryburgh abbeys."
+    },
+    {
+      "title": "Abbotsford",
+      "text": "Sir Walter Scott's Gothic Revival home."
+    },
+    {
+      "title": "Common Ridings",
+      "text": "Annual horseback festivals commemorating border defence."
+    }
+  ],
+  "places": [
+    {
+      "name": "Melrose Abbey",
+      "where": "Melrose",
+      "text": "The heart of Robert the Bruce is said to be buried here."
+    },
+    {
+      "name": "Abbotsford",
+      "where": "Melrose",
+      "text": "Sir Walter Scott's house and library."
+    },
+    {
+      "name": "Floors Castle",
+      "where": "Kelso",
+      "text": "Scotland's largest inhabited castle."
+    }
+  ],
+  "food": [
+    "Selkirk bannock",
+    "Hawick balls",
+    "Borders tart",
+    "Border shortbread"
+  ],
+  "festivals": [
+    {
+      "name": "Common Ridings",
+      "where": "Hawick, Selkirk, Langholm and others",
+      "month": 6,
+      "when": "June",
+      "text": "Riders on horseback follow the old boundaries.",
+      "diaspora": true
+    },
+    {
+      "name": "Melrose Sevens",
+      "where": "Melrose",
+      "month": 4,
+      "when": "April",
+      "text": "The original rugby sevens tournament since 1883."
+    }
+  ],
+  "sport": {
+    "intro": "Rugby is the Borders' great sport, and the sevens game was invented at Melrose.",
+    "clubs": [
+      {
+        "name": "Melrose RFC",
+        "sport": "Rugby union",
+        "ground": "The Greenyards"
+      },
+      {
+        "name": "Hawick RFC",
+        "sport": "Rugby union",
+        "ground": "Mansfield Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Borderers carry their Common Riding traditions to Scots clubs in Canada, the US, Australia and New Zealand."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

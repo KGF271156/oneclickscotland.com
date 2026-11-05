@@ -1,0 +1,114 @@
+{
+  "slug": "east-dunbartonshire",
+  "name": "East Dunbartonshire",
+  "adjective": "East Dunbartonshire",
+  "people": "East Dunbartonshire Scots",
+  "eyebrow": "West Scotland",
+  "title": "East Dunbartonshire —",
+  "title_em": "the West Highland Way starts here.",
+  "tagline": "From Milngavie's West Highland Way start to the Campsie Fells.",
+  "stats": [
+    [
+      "~109,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "East Dunbartonshire lies north of Glasgow, with Bearsden, Milngavie, Kirkintilloch and Lenzie. Milngavie is the starting point of the 96-mile West Highland Way.",
+    "The Forth and Clyde Canal runs through Kirkintilloch, and the Antonine Wall can still be traced at Bearsden."
+  ],
+  "map": {
+    "viewBox": "237 492 21 16",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Kirkintilloch",
+        "lat": 55.938,
+        "lon": -4.155,
+        "note": "The canal town and council seat.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Bearsden",
+        "lat": 55.92,
+        "lon": -4.33,
+        "note": "A leafy suburb with Roman remains.",
+        "label": "left"
+      },
+      {
+        "name": "Milngavie",
+        "lat": 55.942,
+        "lon": -4.315,
+        "note": "Start of the West Highland Way."
+      },
+      {
+        "name": "Lenzie",
+        "lat": 55.92,
+        "lon": -4.15,
+        "note": "A residential village."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The West Highland Way",
+      "text": "A 96-mile long-distance trail from Milngavie to Fort William."
+    },
+    {
+      "title": "Antonine Wall at Bearsden",
+      "text": "A Roman bathhouse is on display."
+    },
+    {
+      "title": "Campsie Fells",
+      "text": "Hills for hillwalking."
+    }
+  ],
+  "places": [
+    {
+      "name": "Bearsden Roman Bath House",
+      "where": "Bearsden",
+      "text": "The best-preserved Roman building in Scotland."
+    },
+    {
+      "name": "Mugdock Country Park",
+      "where": "Milngavie",
+      "text": "Woodland and a castle."
+    },
+    {
+      "name": "Forth and Clyde Canal",
+      "where": "Kirkintilloch",
+      "text": "Towpath and boat trips."
+    }
+  ],
+  "food": [
+    "Tablet",
+    "Scotch pies"
+  ],
+  "festivals": [
+    {
+      "name": "Kirkintilloch Canal Festival",
+      "where": "Kirkintilloch",
+      "month": 8,
+      "when": "August",
+      "text": "Boat festival on the canal."
+    }
+  ],
+  "sport": {
+    "intro": "Walking and golf are the big attractions.",
+    "clubs": []
+  },
+  "community": {
+    "intro": "The West Highland Way draws walkers from Scotland's diaspora who return to walk it."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

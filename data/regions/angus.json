@@ -1,0 +1,134 @@
+{
+  "slug": "angus",
+  "name": "Angus",
+  "adjective": "Angus",
+  "people": "Angus Scots",
+  "eyebrow": "East Scotland · Tayside",
+  "title": "Angus —",
+  "title_em": "glens, smokies and a famous Declaration.",
+  "tagline": "From the Angus Glens to the Arbroath smokies, with a declaration of independence signed in 1320.",
+  "stats": [
+    [
+      "~116,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "Angus sits between the Highlands and the North Sea. Its coast has red sandstone cliffs and harbours, while the Angus Glens rise into the Cairngorms.",
+    "The Declaration of Arbroath of 1320 is one of the founding documents of Scottish identity, and Glamis Castle is the childhood home of the late Queen Mother."
+  ],
+  "map": {
+    "viewBox": "289 394 59 59",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Forfar",
+        "lat": 56.64,
+        "lon": -2.89,
+        "note": "County town and home of the Forfar bridie.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Arbroath",
+        "lat": 56.56,
+        "lon": -2.58,
+        "note": "Harbour town and the smokie."
+      },
+      {
+        "name": "Montrose",
+        "lat": 56.71,
+        "lon": -2.47,
+        "note": "Seaside town and nature reserve."
+      },
+      {
+        "name": "Brechin",
+        "lat": 56.73,
+        "lon": -2.66,
+        "note": "A small cathedral city.",
+        "label": "left"
+      },
+      {
+        "name": "Kirriemuir",
+        "lat": 56.67,
+        "lon": -3.01,
+        "note": "Birthplace of J. M. Barrie, creator of Peter Pan.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Arbroath Abbey and the Declaration",
+      "text": "Where the 1320 Declaration of Arbroath was written."
+    },
+    {
+      "title": "Arbroath smokies",
+      "text": "Haddock smoked in pairs over oak, with a protected name."
+    },
+    {
+      "title": "Glamis Castle",
+      "text": "A fairy-tale castle linked to Macbeth and the Royal family."
+    }
+  ],
+  "places": [
+    {
+      "name": "Arbroath Abbey",
+      "where": "Arbroath",
+      "text": "Ruins of a Tironensian abbey and a symbol of Scottish independence."
+    },
+    {
+      "name": "Glamis Castle",
+      "where": "Glamis",
+      "text": "A grand pink castle and gardens."
+    },
+    {
+      "name": "Angus Glens",
+      "where": "Kirriemuir",
+      "text": "Quiet valleys leading into the Cairngorms."
+    }
+  ],
+  "food": [
+    "Arbroath smokies",
+    "Forfar bridies",
+    "Raspberries (Angus berries)",
+    "Shortbread"
+  ],
+  "festivals": [
+    {
+      "name": "Arbroath Pageant",
+      "where": "Arbroath",
+      "month": 7,
+      "when": "July",
+      "text": "Open-air drama about the Declaration of Arbroath."
+    }
+  ],
+  "sport": {
+    "intro": "Arbroath's Gayfield Park is one of the most exposed grounds in Scottish football, right on the sea.",
+    "clubs": [
+      {
+        "name": "Arbroath FC",
+        "sport": "Football",
+        "ground": "Gayfield Park"
+      },
+      {
+        "name": "Montrose FC",
+        "sport": "Football",
+        "ground": "Links Park"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Angus families are part of the Scots abroad; the Barrie connection to Kirriemuir is celebrated by Peter Pan fans around the world."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}

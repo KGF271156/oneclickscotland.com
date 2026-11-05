@@ -1,0 +1,122 @@
+{
+  "slug": "west-lothian",
+  "name": "West Lothian",
+  "adjective": "West Lothian",
+  "people": "West Lothian Scots",
+  "eyebrow": "Central Belt · Lothian",
+  "title": "West Lothian —",
+  "title_em": "palaces, shale and new towns.",
+  "tagline": "Linlithgow Palace, the birthplace of Mary, Queen of Scots, and the shale bings of an industrial past.",
+  "stats": [
+    [
+      "~183,000",
+      "residents"
+    ],
+    [
+      "32",
+      "council areas in Scotland"
+    ]
+  ],
+  "summary": [
+    "West Lothian lies between Edinburgh and Glasgow. It has Linlithgow Palace, the birthplace of Mary Queen of Scots, and a landscape marked by the red bings of the shale oil industry.",
+    "Livingston, a new town built in the 1960s, is its largest town, and the area has strong links with the Bathgate engineering tradition."
+  ],
+  "map": {
+    "viewBox": "267 494 27 26",
+    "lon0": 0,
+    "x0": 474.76,
+    "pxPerLon": 53.73,
+    "lat0": 0,
+    "y0": 6096.08,
+    "pxPerLat": 100.0,
+    "towns": [
+      {
+        "name": "Livingston",
+        "lat": 55.883,
+        "lon": -3.523,
+        "note": "A new town and shopping centre.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Linlithgow",
+        "lat": 55.977,
+        "lon": -3.605,
+        "note": "A historic burgh with a palace."
+      },
+      {
+        "name": "Bathgate",
+        "lat": 55.902,
+        "lon": -3.643,
+        "note": "A former industrial town.",
+        "label": "left"
+      },
+      {
+        "name": "Broxburn",
+        "lat": 55.94,
+        "lon": -3.47,
+        "note": "Shale bing country.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Linlithgow Palace",
+      "text": "A ruined royal palace beside a loch where Mary, Queen of Scots was born."
+    },
+    {
+      "title": "Shale oil heritage",
+      "text": "The world's first oil industry left red hills called bings."
+    },
+    {
+      "title": "The Union Canal",
+      "text": "A canal from Edinburgh with the Avon Aqueduct."
+    }
+  ],
+  "places": [
+    {
+      "name": "Linlithgow Palace",
+      "where": "Linlithgow",
+      "text": "A major royal residence of the Stewarts."
+    },
+    {
+      "name": "House of the Binns",
+      "where": "Linlithgow",
+      "text": "A 17th-century family home."
+    },
+    {
+      "name": "Almond Valley Heritage Centre",
+      "where": "Livingston",
+      "text": "A museum of rural life."
+    }
+  ],
+  "food": [
+    "Scotch pies",
+    "Tablet",
+    "Whisky"
+  ],
+  "festivals": [
+    {
+      "name": "Linlithgow Marches",
+      "where": "Linlithgow",
+      "month": 6,
+      "when": "June",
+      "text": "A civic festival with a procession."
+    }
+  ],
+  "sport": {
+    "intro": "Livingston FC won the Scottish League Cup in 2004.",
+    "clubs": [
+      {
+        "name": "Livingston FC",
+        "sport": "Football",
+        "ground": "Almondvale Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "The Palace and Mary Queen of Scots draw visitors from Scots abroad."
+  },
+  "ancestry": "Searching for your family's roots? ScotlandsPeople, the Scottish Government's genealogy service, holds statutory registers of births, marriages and deaths, census returns and Old Parish Registers."
+}
