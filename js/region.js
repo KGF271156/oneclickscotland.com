@@ -142,6 +142,7 @@
           }).join('') + '</div>' : '') +
       '</div></section>' +
 
+      '<div id="area-clans"></div>' +
       '<section class="section section--dark" id="abroad"><div class="wrap">' + head(esc(T('{0} abroad', people(R))), esc(T('Roots and branches'))) +
         '<p style="max-width:70ch;color:rgba(251,243,231,0.85);">' + esc(C.intro || '') + ' ' + esc(R.ancestry || '') + '</p>' +
         '<div class="btn-row"><a class="btn btn--primary btn--paper" href="' + ROOT + 'communities.html">' + esc(T('Find {0} communities abroad →', R.adj_fpl || adj(R))) + '</a>' +
@@ -149,6 +150,15 @@
       '</div></section>';
 
     drawMap(R, root.querySelector('[data-map]'));
+    fetch(ROOT + 'data/clans.json').then(function (x) { return x.json(); }).then(function (D) {
+      var mine = D.clans.filter(function (c) { return c.area === slug; });
+      var slot = document.getElementById('area-clans');
+      if (!mine.length || !slot) return;
+      slot.innerHTML = '<section class="section"><div class="wrap">' +
+        '<div class="section-head"><div><div class="eyebrow">Clans &amp; families</div><h2>Clan heartlands in ' + esc(R.name) + '</h2></div>' +
+        '<a href="' + ROOT + 'clans.html" class="btn-ghost">Open the clan map →</a></div>' +
+        '<div class="chip-list">' + mine.map(function (c) { return '<a class="chip" href="' + ROOT + 'clans.html#' + c.id + '">Clan ' + esc(c.name.replace(/^Clan /, '')) + '</a>'; }).join('') + '</div></div></section>';
+    }).catch(function () {});
     [].forEach.call(root.querySelectorAll('.town-list li'), function (li) {
       li.addEventListener('click', function () {
         var g = root.querySelector('.town[data-i="' + li.getAttribute('data-i') + '"]');
