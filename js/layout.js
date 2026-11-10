@@ -59,7 +59,7 @@
       '<div><h5>Scotland Abroad</h5><ul><li><a href="' + ROOT + 'culture.html">Culture</a></li><li><a href="' + ROOT + 'communities.html">Communities</a></li><li><a href="' + ROOT + 'events.html">Events</a></li></ul></div>' +
       '<div><h5>Discover</h5><ul><li><a href="' + ROOT + 'clans.html">Clans &amp; Tartan</a></li><li><a href="' + ROOT + 'whisky.html">Whisky</a></li><li><a href="' + ROOT + 'sport.html">Sport</a></li><li><a href="' + ROOT + 'visit-scotland.html">Visit Scotland</a></li></ul></div>' +
       '</div>' +
-      '<div class="footer-bottom"><span>&copy; ' + new Date().getFullYear() + ' OneClick Scotland · <a href="mailto:info@oneclickscotland.com">info@oneclickscotland.com</a></span>' +
+      '<div class="footer-bottom"><span>&copy; ' + new Date().getFullYear() + ' OneClick Scotland · <a href="mailto:info@oneclickscotland.com">info@oneclickscotland.com</a> · <a href="https://one-click-world.com" target="_blank" rel="noopener">Part of OneClick World</a></span>' +
       '<span><a href="#">Privacy</a> · <a href="#">Terms</a></span></div>' +
       '</div></footer>';
   }
