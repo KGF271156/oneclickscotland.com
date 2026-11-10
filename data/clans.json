@@ -1855,6 +1855,18 @@
    "area": "fife",
    "area_name": "Fife",
    "group": "Tayside, Fife & Central"
+  },
+  {
+   "id": "fraser-of-philorth",
+   "name": "Fraser of Philorth (Lord Saltoun)",
+   "seat": "Philorth and Fraserburgh, Aberdeenshire",
+   "lat": 57.69,
+   "lon": -2.0,
+   "x": 367.3,
+   "y": 327.1,
+   "area": "aberdeenshire",
+   "area_name": "Aberdeenshire",
+   "group": "North-east"
   }
  ]
 }

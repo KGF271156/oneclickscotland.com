@@ -67,6 +67,12 @@
         "lat": 57.506,
         "lon": -1.783,
         "note": "Scotland's most easterly town and a major fishing port."
+      },
+      {
+        "name": "Fraserburgh",
+        "lat": 57.69,
+        "lon": -2.0,
+        "note": "A fishing port founded by the Frasers of Philorth, whose chief is Lord Saltoun."
       }
     ]
   },

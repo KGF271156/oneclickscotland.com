@@ -421,3 +421,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 .clan-list button:hover, .clan-list button.is-on { border-color: var(--terracotta); background: #EAF2FB; }
 .clan-count { font-size: 13px; color: var(--ink-soft); }
 .clan-note { font-size: 13.5px; color: var(--ink-soft); }
+
+.map-neigh { fill: #E9E2D3; stroke: #fff; stroke-width: 0.6; transition: fill .15s; }
+.map-neigh-link:hover .map-neigh { fill: #FFD200; }
+.map-neigh-label { font-family: Georgia, serif; font-weight: 700; fill: #5a4e38; paint-order: stroke; stroke: #F3E3C6; stroke-width: 1.4px; stroke-linejoin: round; cursor: pointer; }

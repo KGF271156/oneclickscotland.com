@@ -181,6 +181,8 @@
       function X(lon) { return M.x0 + (lon - M.lon0) * M.pxPerLon; }
       function Y(lat) { return M.y0 + (M.lat0 - lat) * M.pxPerLat; }
       var vb = M.viewBox.split(' ').map(Number);
+      var e = vb[2] * 0.09, ex = vb[2] * 0.2; vb = [vb[0] - e, vb[1] - e, vb[2] + e + ex, vb[3] + 2 * e];
+      var VB = vb.map(function (v) { return v.toFixed(1); }).join(' ');
       var k = vb[2] / 200;
       var towns = (M.towns || []).map(function (t, i) {
         var x = X(t.lon), y = Y(t.lat), left = t.label === 'left', below = t.label === 'below';
@@ -191,9 +193,22 @@
       var labels = (M.labels || []).map(function (l) {
         return '<text class="map-label map-label--' + l.kind + '" x="' + X(l.lon).toFixed(1) + '" y="' + Y(l.lat).toFixed(1) + '" font-size="' + (4.5 * k).toFixed(2) + '">' + (l.kind === 'peak' ? '▲ ' : '') + esc(l.text) + '</text>';
       }).join('');
-      holder.innerHTML = '<svg viewBox="' + M.viewBox + '" role="img" aria-label="' + esc(T('Map of {0} showing its main towns', ph(R, 'of'))) + '">' +
+      // Neighbouring council areas, drawn faintly for context (so enclaves such as Aberdeen City inside Aberdeenshire show up and can be clicked)
+      var neigh = '', neighLabels = '';
+      [].forEach.call(doc.querySelectorAll('path'), function (q) {
+        var id = q.getAttribute('id'); if (!id || id === slug) return;
+        var n = (q.getAttribute('d').match(/-?\d+\.?\d*/g) || []).map(Number), xs = [], ys = [];
+        for (var i = 0; i + 1 < n.length; i += 2) { xs.push(n[i]); ys.push(n[i + 1]); }
+        var x0 = Math.min.apply(null, xs), x1 = Math.max.apply(null, xs), y0 = Math.min.apply(null, ys), y1 = Math.max.apply(null, ys);
+        if (x1 < vb[0] || x0 > vb[0] + vb[2] || y1 < vb[1] || y0 > vb[1] + vb[3]) return;
+        var nm = q.getAttribute('aria-label') || id, cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
+        var inView = cx > vb[0] && cx < vb[0] + vb[2] && cy > vb[1] && cy < vb[1] + vb[3];
+        neigh += '<a href="' + id + '.html" class="map-neigh-link"><title>' + esc(nm) + '</title><path class="map-neigh" d="' + q.getAttribute('d') + '"/></a>';
+        if (inView) neighLabels += '<a href="' + id + '.html"><text class="map-neigh-label" x="' + cx.toFixed(1) + '" y="' + cy.toFixed(1) + '" text-anchor="middle" font-size="' + Math.max(3.4 * k, 3).toFixed(2) + '">' + esc(nm) + '</text></a>';
+      });
+      holder.innerHTML = '<svg viewBox="' + VB + '" role="img" aria-label="' + esc(T('Map of {0} showing its main towns', ph(R, 'of'))) + '">' +
         '<rect x="' + vb[0] + '" y="' + vb[1] + '" width="' + vb[2] + '" height="' + vb[3] + '" class="map-sea"/>' +
-        '<path class="map-land" d="' + p.getAttribute('d') + '"/>' + labels + towns + '</svg>';
+        neigh + '<path class="map-land" d="' + p.getAttribute('d') + '"/>' + neighLabels + labels + towns + '</svg>';
       var info = document.getElementById('town-info');
       [].forEach.call(holder.querySelectorAll('.town'), function (g) {
         function pick() {
